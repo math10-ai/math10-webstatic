@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Math10.AI</title>
+    <link
+      rel="icon"
+      href="images/logo/ai-logo.png"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="css/grid.css" />
+    <link rel="stylesheet" href="css/style.css" />
+
+    <style>    
+
+      /* iOS Style Button */
+      .ios-button, .android-button {
+          background: none;
+          border: none;
+          padding: 0;
+          cursor: pointer;
+          transition: transform 0.2s ease;
+      }
+
+      .ios-button:hover, .android-button:hover {
+          transform: scale(1.1);
+      }
+
+      .button-icon {
+          width: 150px;
+          height: auto;
+      }
+  </style>
+
+  </head>
+
+  <body>
+    <header class="header">
+      <div class="container">
+        <div class="row">
+          <div class="col-6 col-md-2">
+            <div class="logo">
+              <a href="#">
+                <img src="images/logo/logo2.svg" alt="" />
+                Math10
+              </a>
+            </div>
+            <!--End .logo-->
+          </div>
+          <input type="checkbox" id="menu-toggle" hidden />
+          <div class="col-6 menu-toggle">
+            <label for="menu-toggle">
+              <span class="bars-icon"><i class="fa-solid fa-bars"></i></span>
+              <span class="close-icon"><i class="fa-solid fa-xmark"></i></span>
+            </label>
+            <!-- End .menu-toggle -->
+          </div>
+          <div class="col-md-10">
+            <div class="header-nav">
+              <nav class="menu">
+                <ul>
+                  <li><a href="#counter">Introduction</a></li>
+                  <li><a href="#features">Features</a></li>
+                
+                 
+                </ul>
+              </nav>
+              <!--End .menu-->
+            </div>
+            <!--End .header-nav-->
+          </div>
+        </div>
+      </div>
+    </header>
+    <!--End .header-->
+    <section class="hero">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-12">
+            <div class="hero-content">
+              <h1>
+                The Latest AI-based Math Solving App
+              </h1>
+              <p>
+                Better than ChatGPT free version <br><br>
+                Not only <strong>Mathematics</strong> but also <strong>English</strong>,  <strong>Physics</strong>  and <strong>Chemistry</strong>  
+                <br><br> Support more than 30 languages<br>
+              
+              </p>
+
+              <div class="button-bar">
+                <button class="ios-button">
+                  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" class="button-icon">
+              </button>
+
+              <span>&nbsp; &nbsp;</span>
+          
+              <button class="android-button">
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" class="button-icon">
+              </button>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-12">
+            <div class="hero-img">
+              <strong style="color:#69a6fb">Solving Math </strong>
+              <img src="./images/demo/hoa.jpg" alt=""   style="border-radius: 5px"/>
+              <p>
+                <span style="color:#f6b60b">Solving Chemistry </span>
+              <img src="./images/demo/hoa.jpg" alt=""   style="border-radius: 5px"/>
+              <p>
+                <span style="color:#f6b60b">Solving English</span>
+              <img src="./images/demo/hoa.jpg" alt=""   style="border-radius: 5px"/>
+              <!-- <video autoplay loop muted src="./images/video/video.mp4"></video> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="counter" id="counter">
+      <div class="container">
+        <div class="row row-reverse">
+          <div class="col-md-6 col-12">
+            <div class="counter-img">
+              <img src="./images/section/group2.png" alt="" />
+            </div>
+          </div>
+          <div class="col-md-6 col-12">
+            <div class="counter-content">
+              <h1><span>About Us</span></h1>
+              <p>
+                The AI-powered Math10 is a groundbreaking tool that combining artificial intelligence (AI) with advanced algorithms. Math10.AI helps users solve problems ranging from basic to advanced levels quickly and accurately.
+              </p>
+              <p>
+                Math10 is master in solving
+                only at <strong>Maths</strong> but also at subjects like <strong>English</strong> <strong>Physics</strong> and <strong>Chemistry</strong> .  Unlock your full potential with the power of Math10 !!
+              </p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Counter -->
+    <section class="features" id="features">
+      <div class="container">
+        <div class="features-heading">
+          <h1><span>Features</span></h1>
+        </div>
+        <div class="features-list">
+          <div class="row">
+            <div class="col-md-6 col-12">
+              <div class="features-item">
+                <span><i class="fa-solid fa-laptop-code"></i></span>
+                <h3>Automated Problem Solving</h3>
+                <p>
+                  Instantly identify and solve various types of problems, including algebra, geometry, probability, and calculus.
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6 col-12">
+              <div class="features-item">
+                <span><i class="fa-solid fa-screwdriver-wrench"></i></span>
+                <h3>Step-by-Step Guidance</h3>
+                <p>
+                  Displays detailed solutions, allowing learners to understand the process instead of just receiving the answers.
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6 col-12">
+              <div class="features-item">
+                <span><i class="fa-solid fa-code"></i></span>
+                <h3>Problem Recognition via Images:</h3>
+                <p>
+                  Uses image scanning technology to recognize handwritten or printed math problems, enabling direct problem-solving from textbooks.
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6 col-12">
+              <div class="features-item">
+                <span
+                  ><img
+                    src="./images/icons/multiple-users-silhouette.png"
+                    alt=""
+                /></span>
+                <h3>Multi-Platform Support</h3>
+                <p>
+                  Available on smartphones, tablets, and desktops, offering convenience for all users.
+                </p>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-12">
+              <div class="features-item">
+                <span><i class="fa fa-map-marker"></i></span>
+                <h3>Target Audience:</h3>
+                <p>
+                  Students: Improve learning skills and better prepare for exams.
+                  Teachers: Enhance teaching efficiency and provide additional instructional materials.
+                  Researchers: Quickly solve complex problems, supporting projects and scientific research.
+                </p>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-12">
+              <div class="features-item">
+                <span><i class="fa-solid fa-history"></i></span>
+                <h3>Outstanding Benefits:</h3>
+                <p>
+                  Saves time and effort in solving math problems.
+                  Enhances self-learning abilities and deepens understanding of mathematical concepts.
+                  Brings mathematics closer to everyone, even non-specialists.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Features -->
+    <footer class="footer">
+      <div class="company">
+        <!-- <div class="logo">
+          <a href="#">
+            <img src="images/logo/logo.png" alt="" />
+            CodeOnline
+          </a>
+        </div> -->
+        <h3>CodeOnline JSC</h3>
+        <div class="location">
+          <span><i class="fa-solid fa-location-dot"></i></span>
+          <p>4 C11, Đường Đồng Bát, Cầu Giấy, Hà Nội</p>
+        </div>
+        <div class="location">
+          <span><i class="fa-solid fa-envelope"></i></span>
+          <p>hello@math10.ai</p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
