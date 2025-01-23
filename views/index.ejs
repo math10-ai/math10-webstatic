@@ -9,9 +9,12 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
     />
+    <link rel="stylesheet" href="css/main.min.css" />
     <link rel="stylesheet" href="css/grid.css" />
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/button-style.css">
+    <link rel="stylesheet" href="css/utilities.min.css" />
+
   </head>
 
   <body>
@@ -54,7 +57,44 @@
             <div class="hero-content">
               <h1><%= __("title") %></h1>
               <p><%- __("description") %></p>
-              <p><strong><%= __("buttonText") %></strong></p>
+              <p>
+                <strong><%= __("buttonText") %></strong>
+                
+                <div class="home-intro__awards">
+                  <div class="c-award">
+                    <div class="c-award__body">
+                      <div class="c-award__v">Math</div>
+                      <div class="c-award__k">Top MCSE, ACIM Contest</div>
+                    </div>
+                    <div class="c-award__desc d-lg-none">
+                      <div class="text-uppercase">#1 free iPhone app</div>
+                      <div>in <strong>154</strong> countries in <strong>2019</strong></div>
+                    </div>
+                  </div>
+                  <div class="c-award">
+                    <div class="c-award__body">
+                      <div class="c-award__v">English</div>
+                      <div class="c-award__k">Top 1 of 2019</div>
+                    </div>
+                    <div class="c-award__desc d-lg-none">
+                      <div class="text-uppercase">Top 1 Google Play</div>
+                      <div>overall in <strong>99/101</strong> countries in <strong>2019</strong></div>
+                    </div>
+                  </div>
+                  <div class="c-award">
+                    <div class="c-award__body">
+                      <div class="c-award__v">Science</div>
+                      <div class="c-award__k">TOP</div>
+                    </div>
+                    <div class="c-award__desc d-lg-none">
+                      <div class="text-uppercase">&amp; Active users</div>
+                      <div>all over the World</div>
+                    </div>
+                  </div>
+                </div>
+
+
+              </p>
 
               <div class="button-bar">
                 <button class="ios-button">
@@ -71,9 +111,17 @@
           </div>
           <div class="col-md-6 col-12">
             <div class="hero-img">
-              <img src="./images/demo/gpt.jpeg" alt="" />
-              <img src="./images/demo/gpt.jpeg" alt="" />
-              <img src="./images/demo/gpt.jpeg" alt="" />
+
+              <strong style="color:#69a6fb">Solving Math </strong>
+              
+              <img src="./images/demo/hoa.png" alt="" style="border-radius: 5px" />
+            <p>
+              <span style="color:#f6b60b">Solving Chemistry </span>
+              <img src="./images/demo/hoa.png" alt="" style="border-radius: 5px" />
+            <p>
+              <span style="color:#f6b60b">Solving English</span>
+              <img src="./images/demo/hoa.jpg" alt="" style="border-radius: 5px" />
+              
             </div>
           </div>
         </div>
@@ -174,20 +222,117 @@
       </div>
     </section>
 
-    <footer class="footer">
-      <div class="company">
-        <h3>CodeOnline JSC</h3>
-        <div class="location">
-          <span><i class="fa-solid fa-location-dot"></i></span>
-          <p><%= __("footer_address_title") %></p>
+    <div class="c-layout__footer">
+      <footer class="footer site-footer astro-SZ7XMLTE">
+        <div class="footer__head astro-SZ7XMLTE">
+          <div class="container astro-SZ7XMLTE">
+            <div class="row astro-SZ7XMLTE">
+              <div class="col-12 col-md-8 astro-SZ7XMLTE">
+                <div class="row mt-n6 astro-SZ7XMLTE">
+                
+                  <div class="col-12 col-md-6 mt-6 col-lg-3 astro-SZ7XMLTE">
+                    <div class="footer__navs astro-SZ7XMLTE">
+                      <nav class="footer__nav astro-SZ7XMLTE">
+                        <h3 class="footer__category astro-SZ7XMLTE">Contacts</h3>
+                        <ul class="footer__menu astro-SZ7XMLTE">
+                          <li class="astro-SZ7XMLTE">
+                            <a href="mailto:contact@faceapp.com" class="astro-SZ7XMLTE">
+                              Contact Us
+  
+                            </a>
+                          </li>
+                          <li class="astro-SZ7XMLTE">
+                            <a href="mailto:support@faceapp.com" class="astro-SZ7XMLTE">
+                              Support
+  
+                            </a>
+                          </li>
+                          <li class="astro-SZ7XMLTE">
+                            <a href="mailto:security@faceapp.com" class="astro-SZ7XMLTE">
+                              Security
+  
+                            </a>
+                          </li>
+                        </ul>
+                      </nav>
+                    </div>
+                  </div>
+               
+                  <div class="col-12 col-md-6 mt-6 col-lg-3 astro-SZ7XMLTE">
+                    <div class="footer__navs astro-SZ7XMLTE">
+                      <nav class="footer__nav astro-SZ7XMLTE">
+                        <h3 class="footer__category astro-SZ7XMLTE">Social</h3>
+                        <ul class="footer__menu astro-SZ7XMLTE">
+                          <li class="astro-SZ7XMLTE">
+                            <a class="c-social c-social--instagram astro-SZ7XMLTE"
+                              href="https://www.instagram.com/faceapp/" title="instagram" target="_blank">
+                              <svg class="ic ic--instagram instagram astro-SZ7XMLTE" xmlns="http://www.w3.org/2000/svg"
+                                viewBox="0 0 14 14" width="14" height="14">
+                                <use xlink:href="#ic-instagram"></use>
+                              </svg>
+                              <span class="c-social__label astro-SZ7XMLTE">
+                                Instagram
+                              </span>
+                            </a>
+                          </li>
+                          <li class="astro-SZ7XMLTE">
+                            <a class="c-social c-social--twitter astro-SZ7XMLTE"
+                              href="https://twitter.com/faceappofficial" title="twitter" target="_blank">
+                              <svg class="ic ic--twitter twitter astro-SZ7XMLTE" xmlns="http://www.w3.org/2000/svg"
+                                viewBox="0 0 14 14" width="14" height="14">
+                                <use xlink:href="#ic-twitter"></use>
+                              </svg>
+                              <span class="c-social__label astro-SZ7XMLTE">
+                                Twitter
+                              </span>
+                            </a>
+                          </li>
+                          <li class="astro-SZ7XMLTE">
+                            <a class="c-social c-social--facebook astro-SZ7XMLTE"
+                              href="https://www.facebook.com/faceappselfie" title="facebook" target="_blank">
+                              <svg class="ic ic--facebook facebook astro-SZ7XMLTE" xmlns="http://www.w3.org/2000/svg"
+                                viewBox="0 0 14 14" width="14" height="14">
+                                <use xlink:href="#ic-facebook"></use>
+                              </svg>
+                              <span class="c-social__label astro-SZ7XMLTE">
+                                Facebook
+                              </span>
+                            </a>
+                          </li>
+                        </ul>
+                      </nav>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-4 astro-SZ7XMLTE">
+                <div class="c-app-links c-app-links--os c-app-links--desktop-visible footer__actions astro-SZ7XMLTE">
+                  <a class="c-app-link c-app-link--app-store footer__action astro-SZ7XMLTE"
+                    href="https://apps.apple.com/app/apple-store/id1180884341" target="_blank">
+                    <svg class="ic ic--app-store c-app-link__icon" xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 153 40">
+                      <use xlink:href="#ic-app-store"></use>
+                    </svg>
+                  </a>
+                  <a class="c-app-link c-app-link--google-play footer__action astro-SZ7XMLTE"
+                    href="https://play.google.com/store/apps/details?id=io.faceapp" target="_blank">
+                    <svg class="ic ic--google-play c-app-link__icon" xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 153 40">
+                      <use xlink:href="#ic-google-play"></use>
+                    </svg>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="location">
-          <span><i class="fa-solid fa-envelope"></i></span>
-          <p>hello@math10.ai</p>
+        <div class="footer__bottom astro-SZ7XMLTE">
+          <div class="container astro-SZ7XMLTE">
+           
+            <div class="footer__copy astro-SZ7XMLTE">© 2025 Math10.AI. All Rights Reserved. </div>
+          </div>
         </div>
-        <p><%= __("footer_address_description") %></p>
-      </div>
-    </footer>
-
+      </footer>
+    </div>
   </body>
 </html>
