@@ -1,245 +1,396 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Math10.AI</title>
-    <link
-      rel="icon"
-      href="images/logo/ai-logo.png"
-    />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
-    />
-    <link rel="stylesheet" href="css/grid.css" />
-    <link rel="stylesheet" href="css/style.css" />
 
-    <style>    
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Math10.AI</title>
+  <link rel="icon" href="images/logo/ai-logo.png" />
+  <link rel="stylesheet" href="css/main.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <link rel="stylesheet" href="css/grid.css" />
+  <link rel="stylesheet" href="css/style.css" />
 
-      /* iOS Style Button */
-      .ios-button, .android-button {
-          background: none;
-          border: none;
-          padding: 0;
-          cursor: pointer;
-          transition: transform 0.2s ease;
-      }
+  <link rel="stylesheet" href="css/utilities.min.css" />
 
-      .ios-button:hover, .android-button:hover {
-          transform: scale(1.1);
-      }
+  <style>
+    /* iOS Style Button */
+    .ios-button,
+    .android-button {
+      background: none;
+      border: none;
+      padding: 0;
+      cursor: pointer;
+      transition: transform 0.2s ease;
+    }
 
-      .button-icon {
-          width: 150px;
-          height: auto;
-      }
+    .ios-button:hover,
+    .android-button:hover {
+      transform: scale(1.1);
+    }
+
+    .button-icon {
+      width: 150px;
+      height: auto;
+    }
+
+    .home-intro__awards {
+      display: flex;
+      flex-direction: column;
+      margin-top: 43px
+    }
   </style>
 
-  </head>
+</head>
 
-  <body>
-    <header class="header">
-      <div class="container">
-        <div class="row">
-          <div class="col-6 col-md-2">
-            <div class="logo">
-              <a href="#">
-                <img src="images/logo/logo2.svg" alt="" />
-                Math10
-              </a>
-            </div>
-            <!--End .logo-->
+<body>
+  <header class="header">
+    <div class="container">
+      <div class="row">
+        <div class="col-6 col-md-2">
+          <div class="logo">
+            <a href="#">
+              <img src="images/logo/logo2.svg" alt="" />
+              Math10
+            </a>
           </div>
-          <input type="checkbox" id="menu-toggle" hidden />
-          <div class="col-6 menu-toggle">
-            <label for="menu-toggle">
-              <span class="bars-icon"><i class="fa-solid fa-bars"></i></span>
-              <span class="close-icon"><i class="fa-solid fa-xmark"></i></span>
-            </label>
-            <!-- End .menu-toggle -->
+          <!--End .logo-->
+        </div>
+        <input type="checkbox" id="menu-toggle" hidden />
+        <div class="col-6 menu-toggle">
+          <label for="menu-toggle">
+            <span class="bars-icon"><i class="fa-solid fa-bars"></i></span>
+            <span class="close-icon"><i class="fa-solid fa-xmark"></i></span>
+          </label>
+          <!-- End .menu-toggle -->
+        </div>
+        <div class="col-md-10">
+          <div class="header-nav">
+            <nav class="menu">
+              <ul>
+                <li><a href="#counter">Introduction</a></li>
+                <li><a href="#features">Features</a></li>
+
+
+              </ul>
+            </nav>
+            <!--End .menu-->
           </div>
-          <div class="col-md-10">
-            <div class="header-nav">
-              <nav class="menu">
-                <ul>
-                  <li><a href="#counter">Introduction</a></li>
-                  <li><a href="#features">Features</a></li>
-                
-                 
-                </ul>
-              </nav>
-              <!--End .menu-->
-            </div>
-            <!--End .header-nav-->
-          </div>
+          <!--End .header-nav-->
         </div>
       </div>
-    </header>
-    <!--End .header-->
-    <section class="hero">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 col-12">
-            <div class="hero-content">
-              <h1>
-                The Latest AI-based Math Solving App
-              </h1>
-              <p>
-                Better than ChatGPT free version <br><br>
-                Not only <strong>Mathematics</strong> but also <strong>English</strong>,  <strong>Physics</strong>  and <strong>Chemistry</strong>  
-                <br><br> Support more than 30 languages<br>
-              
-              </p>
+    </div>
+  </header>
+  <!--End .header-->
+  <section class="hero">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-12">
+          <div class="hero-content">
+            <h1>
+              The Latest AI-based Math Solving App
+            </h1>
+            <p>
+              Better than ChatGPT free version <br><br>
+              Not only <strong>Mathematics</strong> but also <strong>English</strong>, <strong>Physics</strong> and
+              <strong>Chemistry</strong>
+              <br><br> Support more than 30 languages<br>
 
-              <div class="button-bar">
-                <button class="ios-button">
-                  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" class="button-icon">
+            <div class="home-intro__awards">
+              <div class="c-award">
+                <div class="c-award__body">
+                  <div class="c-award__v">Math</div>
+                  <div class="c-award__k">Top MCSE, ACIM Contest</div>
+                </div>
+                <div class="c-award__desc d-lg-none">
+                  <div class="text-uppercase">#1 free iPhone app</div>
+                  <div>in <strong>154</strong> countries in <strong>2019</strong></div>
+                </div>
+              </div>
+              <div class="c-award">
+                <div class="c-award__body">
+                  <div class="c-award__v">English</div>
+                  <div class="c-award__k">Top 1 of 2019</div>
+                </div>
+                <div class="c-award__desc d-lg-none">
+                  <div class="text-uppercase">Top 1 Google Play</div>
+                  <div>overall in <strong>99/101</strong> countries in <strong>2019</strong></div>
+                </div>
+              </div>
+              <div class="c-award">
+                <div class="c-award__body">
+                  <div class="c-award__v">Science</div>
+                  <div class="c-award__k">TOP</div>
+                </div>
+                <div class="c-award__desc d-lg-none">
+                  <div class="text-uppercase">&amp; Active users</div>
+                  <div>all over the World</div>
+                </div>
+              </div>
+            </div>
+
+            </p>
+
+            <div class="button-bar">
+              <button class="ios-button">
+                <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
+                  alt="Download on the App Store" class="button-icon">
               </button>
 
               <span>&nbsp; &nbsp;</span>
-          
+
               <button class="android-button">
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" class="button-icon">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+                  alt="Get it on Google Play" class="button-icon">
               </button>
-              </div>
             </div>
           </div>
-          <div class="col-md-6 col-12">
-            <div class="hero-img">
-              <strong style="color:#69a6fb">Solving Math </strong>
-              <img src="./images/demo/hoa.jpg" alt=""   style="border-radius: 5px"/>
-              <p>
-                <span style="color:#f6b60b">Solving Chemistry </span>
-              <img src="./images/demo/hoa.jpg" alt=""   style="border-radius: 5px"/>
-              <p>
-                <span style="color:#f6b60b">Solving English</span>
-              <img src="./images/demo/hoa.jpg" alt=""   style="border-radius: 5px"/>
+        </div>
+        <div class="col-md-6 col-12">
+          <div class="hero-img">
+            <strong style="color:#69a6fb">Solving Math </strong>
+            <img src="./images/demo/hoa.png" alt="" style="border-radius: 5px" />
+            <p>
+              <span style="color:#f6b60b">Solving Chemistry </span>
+              <img src="./images/demo/hoa.png" alt="" style="border-radius: 5px" />
+            <p>
+              <span style="color:#f6b60b">Solving English</span>
+              <img src="./images/demo/hoa.jpg" alt="" style="border-radius: 5px" />
               <!-- <video autoplay loop muted src="./images/video/video.mp4"></video> -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="counter" id="counter">
+    <div class="container">
+      <div class="row row-reverse">
+        <div class="col-md-6 col-12">
+          <div class="counter-img">
+            <img src="./images/section/group2.png" alt="" />
+          </div>
+        </div>
+        <div class="col-md-6 col-12">
+          <div class="counter-content">
+            <h1><span>About Us</span></h1>
+            <p>
+              The AI-powered Math10 is a groundbreaking tool that combining artificial intelligence (AI) with advanced
+              algorithms. Math10.AI helps users solve problems ranging from basic to advanced levels quickly and
+              accurately.
+            </p>
+            <p>
+              Math10 is master in solving
+              only at <strong>Maths</strong> but also at subjects like <strong>English</strong> <strong>Physics</strong>
+              and <strong>Chemistry</strong> . Unlock your full potential with the power of Math10 !!
+            </p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Counter -->
+  <section class="features" id="features">
+    <div class="container">
+      <div class="features-heading">
+        <h1><span>Features</span></h1>
+      </div>
+      <div class="features-list">
+        <div class="row">
+          <div class="col-md-6 col-12">
+            <div class="features-item">
+              <span><i class="fa-solid fa-laptop-code"></i></span>
+              <h3>Automated Problem Solving</h3>
+              <p>
+                Instantly identify and solve various types of problems, including algebra, geometry, probability, and
+                calculus.
+              </p>
+            </div>
+          </div>
+          <div class="col-md-6 col-12">
+            <div class="features-item">
+              <span><i class="fa-solid fa-screwdriver-wrench"></i></span>
+              <h3>Step-by-Step Guidance</h3>
+              <p>
+                Displays detailed solutions, allowing learners to understand the process instead of just receiving the
+                answers.
+              </p>
+            </div>
+          </div>
+          <div class="col-md-6 col-12">
+            <div class="features-item">
+              <span><i class="fa-solid fa-code"></i></span>
+              <h3>Problem Recognition via Images:</h3>
+              <p>
+                Uses image scanning technology to recognize handwritten or printed math problems, enabling direct
+                problem-solving from textbooks.
+              </p>
+            </div>
+          </div>
+          <div class="col-md-6 col-12">
+            <div class="features-item">
+              <span><img src="./images/icons/multiple-users-silhouette.png" alt="" /></span>
+              <h3>Multi-Platform Support</h3>
+              <p>
+                Available on smartphones, tablets, and desktops, offering convenience for all users.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-12">
+            <div class="features-item">
+              <span><i class="fa fa-map-marker"></i></span>
+              <h3>Target Audience:</h3>
+              <p>
+                Students: Improve learning skills and better prepare for exams.
+                Teachers: Enhance teaching efficiency and provide additional instructional materials.
+                Researchers: Quickly solve complex problems, supporting projects and scientific research.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-12">
+            <div class="features-item">
+              <span><i class="fa-solid fa-history"></i></span>
+              <h3>Outstanding Benefits:</h3>
+              <p>
+                Saves time and effort in solving math problems.
+                Enhances self-learning abilities and deepens understanding of mathematical concepts.
+                Brings mathematics closer to everyone, even non-specialists.
+              </p>
             </div>
           </div>
         </div>
       </div>
-    </section>
-    <section class="counter" id="counter">
-      <div class="container">
-        <div class="row row-reverse">
-          <div class="col-md-6 col-12">
-            <div class="counter-img">
-              <img src="./images/section/group2.png" alt="" />
-            </div>
-          </div>
-          <div class="col-md-6 col-12">
-            <div class="counter-content">
-              <h1><span>About Us</span></h1>
-              <p>
-                The AI-powered Math10 is a groundbreaking tool that combining artificial intelligence (AI) with advanced algorithms. Math10.AI helps users solve problems ranging from basic to advanced levels quickly and accurately.
-              </p>
-              <p>
-                Math10 is master in solving
-                only at <strong>Maths</strong> but also at subjects like <strong>English</strong> <strong>Physics</strong> and <strong>Chemistry</strong> .  Unlock your full potential with the power of Math10 !!
-              </p>
+    </div>
+  </section>
+  <!-- End Features -->
+  <!-- <footer class="footer">
+    <div class="company">
+   
+      <h3>CodeOnline JSC</h3>
+      <div class="location">
+        <span><i class="fa-solid fa-location-dot"></i></span>
+        <p>4 C11, Đường Đồng Bát, Cầu Giấy, Hà Nội</p>
+      </div>
+      <div class="location">
+        <span><i class="fa-solid fa-envelope"></i></span>
+        <p>hello@math10.ai</p>
+      </div>
+    </div>
+  </footer> -->
+  <div class="c-layout__footer">
+    <footer class="footer site-footer astro-SZ7XMLTE">
+      <div class="footer__head astro-SZ7XMLTE">
+        <div class="container astro-SZ7XMLTE">
+          <div class="row astro-SZ7XMLTE">
+            <div class="col-12 col-md-8 astro-SZ7XMLTE">
+              <div class="row mt-n6 astro-SZ7XMLTE">
               
+                <div class="col-12 col-md-6 mt-6 col-lg-3 astro-SZ7XMLTE">
+                  <div class="footer__navs astro-SZ7XMLTE">
+                    <nav class="footer__nav astro-SZ7XMLTE">
+                      <h3 class="footer__category astro-SZ7XMLTE">Contacts</h3>
+                      <ul class="footer__menu astro-SZ7XMLTE">
+                        <li class="astro-SZ7XMLTE">
+                          <a href="mailto:contact@faceapp.com" class="astro-SZ7XMLTE">
+                            Contact Us
+
+                          </a>
+                        </li>
+                        <li class="astro-SZ7XMLTE">
+                          <a href="mailto:support@faceapp.com" class="astro-SZ7XMLTE">
+                            Support
+
+                          </a>
+                        </li>
+                        <li class="astro-SZ7XMLTE">
+                          <a href="mailto:security@faceapp.com" class="astro-SZ7XMLTE">
+                            Security
+
+                          </a>
+                        </li>
+                      </ul>
+                    </nav>
+                  </div>
+                </div>
+             
+                <div class="col-12 col-md-6 mt-6 col-lg-3 astro-SZ7XMLTE">
+                  <div class="footer__navs astro-SZ7XMLTE">
+                    <nav class="footer__nav astro-SZ7XMLTE">
+                      <h3 class="footer__category astro-SZ7XMLTE">Social</h3>
+                      <ul class="footer__menu astro-SZ7XMLTE">
+                        <li class="astro-SZ7XMLTE">
+                          <a class="c-social c-social--instagram astro-SZ7XMLTE"
+                            href="https://www.instagram.com/faceapp/" title="instagram" target="_blank">
+                            <svg class="ic ic--instagram instagram astro-SZ7XMLTE" xmlns="http://www.w3.org/2000/svg"
+                              viewBox="0 0 14 14" width="14" height="14">
+                              <use xlink:href="#ic-instagram"></use>
+                            </svg>
+                            <span class="c-social__label astro-SZ7XMLTE">
+                              Instagram
+                            </span>
+                          </a>
+                        </li>
+                        <li class="astro-SZ7XMLTE">
+                          <a class="c-social c-social--twitter astro-SZ7XMLTE"
+                            href="https://twitter.com/faceappofficial" title="twitter" target="_blank">
+                            <svg class="ic ic--twitter twitter astro-SZ7XMLTE" xmlns="http://www.w3.org/2000/svg"
+                              viewBox="0 0 14 14" width="14" height="14">
+                              <use xlink:href="#ic-twitter"></use>
+                            </svg>
+                            <span class="c-social__label astro-SZ7XMLTE">
+                              Twitter
+                            </span>
+                          </a>
+                        </li>
+                        <li class="astro-SZ7XMLTE">
+                          <a class="c-social c-social--facebook astro-SZ7XMLTE"
+                            href="https://www.facebook.com/faceappselfie" title="facebook" target="_blank">
+                            <svg class="ic ic--facebook facebook astro-SZ7XMLTE" xmlns="http://www.w3.org/2000/svg"
+                              viewBox="0 0 14 14" width="14" height="14">
+                              <use xlink:href="#ic-facebook"></use>
+                            </svg>
+                            <span class="c-social__label astro-SZ7XMLTE">
+                              Facebook
+                            </span>
+                          </a>
+                        </li>
+                      </ul>
+                    </nav>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-md-4 astro-SZ7XMLTE">
+              <div class="c-app-links c-app-links--os c-app-links--desktop-visible footer__actions astro-SZ7XMLTE">
+                <a class="c-app-link c-app-link--app-store footer__action astro-SZ7XMLTE"
+                  href="https://apps.apple.com/app/apple-store/id1180884341" target="_blank">
+                  <svg class="ic ic--app-store c-app-link__icon" xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 153 40">
+                    <use xlink:href="#ic-app-store"></use>
+                  </svg>
+                </a>
+                <a class="c-app-link c-app-link--google-play footer__action astro-SZ7XMLTE"
+                  href="https://play.google.com/store/apps/details?id=io.faceapp" target="_blank">
+                  <svg class="ic ic--google-play c-app-link__icon" xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 153 40">
+                    <use xlink:href="#ic-google-play"></use>
+                  </svg>
+                </a>
+              </div>
             </div>
           </div>
         </div>
       </div>
-    </section>
-    <!-- End Counter -->
-    <section class="features" id="features">
-      <div class="container">
-        <div class="features-heading">
-          <h1><span>Features</span></h1>
-        </div>
-        <div class="features-list">
-          <div class="row">
-            <div class="col-md-6 col-12">
-              <div class="features-item">
-                <span><i class="fa-solid fa-laptop-code"></i></span>
-                <h3>Automated Problem Solving</h3>
-                <p>
-                  Instantly identify and solve various types of problems, including algebra, geometry, probability, and calculus.
-                </p>
-              </div>
-            </div>
-            <div class="col-md-6 col-12">
-              <div class="features-item">
-                <span><i class="fa-solid fa-screwdriver-wrench"></i></span>
-                <h3>Step-by-Step Guidance</h3>
-                <p>
-                  Displays detailed solutions, allowing learners to understand the process instead of just receiving the answers.
-                </p>
-              </div>
-            </div>
-            <div class="col-md-6 col-12">
-              <div class="features-item">
-                <span><i class="fa-solid fa-code"></i></span>
-                <h3>Problem Recognition via Images:</h3>
-                <p>
-                  Uses image scanning technology to recognize handwritten or printed math problems, enabling direct problem-solving from textbooks.
-                </p>
-              </div>
-            </div>
-            <div class="col-md-6 col-12">
-              <div class="features-item">
-                <span
-                  ><img
-                    src="./images/icons/multiple-users-silhouette.png"
-                    alt=""
-                /></span>
-                <h3>Multi-Platform Support</h3>
-                <p>
-                  Available on smartphones, tablets, and desktops, offering convenience for all users.
-                </p>
-              </div>
-            </div>
-
-            <div class="col-md-6 col-12">
-              <div class="features-item">
-                <span><i class="fa fa-map-marker"></i></span>
-                <h3>Target Audience:</h3>
-                <p>
-                  Students: Improve learning skills and better prepare for exams.
-                  Teachers: Enhance teaching efficiency and provide additional instructional materials.
-                  Researchers: Quickly solve complex problems, supporting projects and scientific research.
-                </p>
-              </div>
-            </div>
-
-            <div class="col-md-6 col-12">
-              <div class="features-item">
-                <span><i class="fa-solid fa-history"></i></span>
-                <h3>Outstanding Benefits:</h3>
-                <p>
-                  Saves time and effort in solving math problems.
-                  Enhances self-learning abilities and deepens understanding of mathematical concepts.
-                  Brings mathematics closer to everyone, even non-specialists.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- End Features -->
-    <footer class="footer">
-      <div class="company">
-        <!-- <div class="logo">
-          <a href="#">
-            <img src="images/logo/logo.png" alt="" />
-            CodeOnline
-          </a>
-        </div> -->
-        <h3>CodeOnline JSC</h3>
-        <div class="location">
-          <span><i class="fa-solid fa-location-dot"></i></span>
-          <p>4 C11, Đường Đồng Bát, Cầu Giấy, Hà Nội</p>
-        </div>
-        <div class="location">
-          <span><i class="fa-solid fa-envelope"></i></span>
-          <p>hello@math10.ai</p>
+      <div class="footer__bottom astro-SZ7XMLTE">
+        <div class="container astro-SZ7XMLTE">
+         
+          <div class="footer__copy astro-SZ7XMLTE">© 2025 Math10.AI. All Rights Reserved. </div>
         </div>
       </div>
     </footer>
-  </body>
+  </div>
+</body>
+
 </html>
