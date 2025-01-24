@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="<%= lang %>">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Math10.AI</title>
+    <link rel="icon" href="images/logo/ai-logo.png" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="css/grid.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/button-style.css">
+  </head>
+
+  <body>
+    <header class="header">
+      <div class="container">
+        <div class="row">
+          <div class="col-6 col-md-2">
+            <div class="logo">
+              <a href="#">
+                <img src="images/logo/ai-logo.png" alt="" />
+                Math10
+              </a>
+            </div>
+          </div>
+          <input type="checkbox" id="menu-toggle" hidden />
+          <div class="col-6 menu-toggle">
+            <label for="menu-toggle">
+              <span class="bars-icon"><i class="fa-solid fa-bars"></i></span>
+              <span class="close-icon"><i class="fa-solid fa-xmark"></i></span>
+            </label>
+          </div>
+          <div class="col-md-10">
+            <div class="header-nav">
+              <nav class="menu">
+                <ul>
+                  <li><a href="#counter"><%= __("introduction") %></a></li>
+                  <li><a href="#features"><%= __("features") %></a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="hero">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-12">
+            <div class="hero-content">
+              <h1><%= __("title") %></h1>
+              <p><%- __("description") %></p>
+              <p><strong><%= __("buttonText") %></strong></p>
+
+              <div class="button-bar">
+                <button class="ios-button">
+                  <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" class="button-icon">
+              </button>
+
+              <span>&nbsp; &nbsp;</span>
+          
+              <button class="android-button">
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" class="button-icon">
+              </button>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-12">
+            <div class="hero-img">
+              <img src="./images/demo/gpt.jpeg" alt="" />
+              <img src="./images/demo/gpt.jpeg" alt="" />
+              <img src="./images/demo/gpt.jpeg" alt="" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="counter" id="counter">
+      <div class="container">
+        <div class="row row-reverse">
+          <div class="col-md-6 col-12">
+            <div class="counter-img">
+              <img src="./images/section/group2.png" alt="" />
+            </div>
+          </div>
+          <div class="col-md-6 col-12">
+            <div class="counter-content">
+              <h1><span><%= __("aboutUs") %></span></h1>
+              <p>
+                <%= __("summary") %>
+              </p>
+              <p>
+                <%- __("capability") %>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="features" id="features">
+      <div class="container">
+        <div class="features-heading">
+          <h1><span><%= __("featuresSection") %></span></h1>
+        </div>
+
+        <div class="features-list">
+          <div class="row">
+            <div class="col-md-6 col-12">
+              <div class="features-item">
+                <span><i class="fa-solid fa-laptop-code"></i></span>
+                <h3><%= __("features_automated_problem_solving_title") %></h3>
+                <p>
+                  <%= __("features_automated_problem_solving_description") %>
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6 col-12">
+              <div class="features-item">
+                <span><i class="fa-solid fa-screwdriver-wrench"></i></span>
+                <h3><%= __("features_step_by_step_guidance_title") %></h3>
+                <p>
+                  <%= __("features_step_by_step_guidance_description") %>                
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6 col-12">
+              <div class="features-item">
+                <span><i class="fa-solid fa-code"></i></span>
+                <h3><%= __("features_problem_recognition_title") %></h3>
+                <p>
+                  <%= __("features_problem_recognition_description") %>                
+                </p>
+              </div>
+            </div>
+            <div class="col-md-6 col-12">
+              <div class="features-item">
+                <span>
+                  <img src="./images/icons/multiple-users-silhouette.png" alt=""/>
+                </span>
+                <h3><%= __("features_multi_platform_support_title") %></h3>
+                <p>
+                  <%= __("features_multi_platform_support_description") %>                
+                </p>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-12">
+              <div class="features-item">
+                <span><i class="fa fa-map-marker"></i></span>
+                <h3><%= __("features_target_audience_title") %></h3>
+                <p>
+                  <%= __("features_target_audience_description") %> 
+                </p>
+              </div>
+            </div>
+
+            <div class="col-md-6 col-12">
+              <div class="features-item">
+                <span><i class="fa-solid fa-history"></i></span>
+                <h3><%= __("features_outstanding_benefits_title") %></h3>
+                <p>
+                  <%= __("features_outstanding_benefits_description") %>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="company">
+        <h3>CodeOnline JSC</h3>
+        <div class="location">
+          <span><i class="fa-solid fa-location-dot"></i></span>
+          <p><%= __("footer_address_title") %></p>
+        </div>
+        <div class="location">
+          <span><i class="fa-solid fa-envelope"></i></span>
+          <p>hello@math10.ai</p>
+        </div>
+        <p><%= __("footer_address_description") %></p>
+      </div>
+    </footer>
+
+  </body>
+</html>
