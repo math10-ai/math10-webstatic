@@ -3,7 +3,7 @@ const i18n = require('i18n');
 const app = express();
 
 i18n.configure({
-  locales: ['en', 'fr'],
+  locales: ['en', 'fr', 'es', 'de', 'it', 'pt', 'ru', 'zh', 'ja', 'ko', 'ar', 'hi', 'bn', 'tr', 'vi', 'pl', 'nl', 'sv', 'no', 'fi', 'da', 'th'],
   directory: __dirname + '/locales',
   defaultLocale: 'en',
   queryParameter: 'lang',
