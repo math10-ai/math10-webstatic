@@ -2,13 +2,54 @@
     "introduction": "Introduction",
     "features": "Features",
     "title": "The Latest AI-based Math Solving App",
-    "description": "Better than ChatGPT free version.<br><br>Not only <strong>Mathematics</strong> but also <strong>English</strong>, <strong>Physics</strong>, and <strong>Chemistry</strong>.<br><br>Support more than 30 languages.<br>",
     "aboutUs": "About Us",
-    "summary": "The AI-powered Math10 is a groundbreaking tool that provides efficient and innovative solutions for learning, teaching, and researching mathematics.",
-    "capability": "Math10 is master in solving only at <strong>Maths</strong> but also at subjects like <strong>English</strong> <strong>Physics</strong> and <strong>Chemistry</strong> .  Unlock your full potential with the power of Math10 !!",
+
+    "description": "Better than ChatGPT<br><br>Excels in <strong>Math, English, Physics and Chemistry..</strong><br><br> Supports over 30 languages<br>",
+
+    "homeIntro": {
+      "awards": {
+        "math": {
+          "v": "Math",
+          "k": "Top MCSE, ACIM Contest"
+        },
+        "english": {
+          "v": "English",
+          "k": "Top Question Answer, Correct"
+        },
+        "science": {
+          "v": "Science",
+          "k": "TOP GPQA-Diamond"
+        }
+      }
+    },
+
+
+    
+    "solvingMath": "Solving Math",
+     
+    "solvingEnglish": "Solving English",
+     
+    "solvingChemistry": "Solving Chemistry",
+    "contacts": "Contacts",
+    "contacts_label": "Contact Us",
+    "contacts_sp": "Support",
+    "contacts_coop": "Cooperation",
+    
+    "footer": "© 2025 Math10.AI. All Rights Reserved. ",
+
+
+      
+  
+
+
+    "summary": "The AI-powered Math10 is a groundbreaking tool that combines artificial intelligence (AI) with advanced algorithms. Math10.AI helps users solve problems quickly and accurately, from basic to advanced levels.",
+    "capability": "Math10 excels not only in Math but also in subjects like <strong>English, Physics, and Chemistry </strong>. Unlock your full potential with the power of Math10!",
+
+    "features_automated_problem_solving_description": "Instantly identify and solve various types of problems, including algebra, geometry, probability, calculus, english, physics, chemistry.",
+
+
     "featuresSection": "Features",
     "features_automated_problem_solving_title": "Automated Problem Solving",
-    "features_automated_problem_solving_description": "Instantly identify and solve various types of problems, including algebra, geometry, probability, and calculus.",
     "features_step_by_step_guidance_title": "Step-by-Step Guidance",
     "features_step_by_step_guidance_description": "Displays detailed solutions, allowing learners to understand the process instead of just receiving the answers.",
     "features_problem_recognition_title": "Problem Recognition via Images",
@@ -19,8 +60,15 @@
     "features_target_audience_description": "Students: Improve learning skills and better prepare for exams.\nTeachers: Enhance teaching efficiency and provide additional instructional materials.\nResearchers: Quickly solve complex problems, supporting projects and scientific research.",
     "features_outstanding_benefits_title": "Outstanding Benefits",
     "features_outstanding_benefits_description": "Saves time and effort in solving math problems.\nEnhances self-learning abilities and deepens understanding of mathematical concepts.\nBrings mathematics closer to everyone, even non-specialists.",
+
+
+   
+
+
     "footer_address_title": "Address",
     "footer_address_description": "4 C11, Đường Đồng Bát, Cầu Giấy, Hà Nội",
+    
+    
     "buttonText": "Current language: English"
   }
   

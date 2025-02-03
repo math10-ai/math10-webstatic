@@ -2,13 +2,30 @@
     "introduction": "Introducción",
     "features": "Características",
     "title": "La última aplicación de resolución matemática basada en IA",
-    "description": "Mejor que la versión gratuita de ChatGPT.<br><br>No solo <strong>Matemáticas</strong> sino también <strong>Inglés</strong>, <strong>Física</strong> y <strong>Química</strong>.<br><br>Admite más de 30 idiomas.<br>",
+    
+    "description": "Mejor que ChatGPT<br><br>Destaca en <strong>Matemáticas, Inglés, Física y Química</strong>.<br><br>Admite más de 30 idiomas<br>",
+    "homeIntro": {
+      "awards": {
+        "math": {"v": "Matemáticas", "k": "Concurso MCSE, ACIM superior"},
+        "english": {"v": "Inglés", "k": "Respuesta correcta a la pregunta"},
+        "science": {"v": "Ciencia", "k": "TOP GPQA-Diamante"}
+      }
+    },
+    "solvingMath": "Resolviendo Matemáticas",
+    "solvingEnglish": "Resolviendo Inglés",
+    "solvingChemistry": "Resolviendo Química",
+    "contacts": "Contactos",
+    "contacts_label": "Contáctenos",
+    "contacts_sp": "Soporte",
+    "contacts_coop": "Cooperación",
+    "footer": "© 2025 Math10.AI. Todos los derechos reservados.",
+    "summary": "Math10 impulsado por IA es una herramienta revolucionaria que combina inteligencia artificial (IA) con algoritmos avanzados. Math10.AI ayuda a los usuarios a resolver problemas de forma rápida y precisa, desde niveles básicos hasta avanzados.",
+    "capability": "Math10 no solo sobresale en <strong>Matemáticas</strong>, sino también en materias como <strong>Inglés, Física y Química</strong>. ¡Libera todo tu potencial con el poder de Math10!",
+    "features_automated_problem_solving_description": "Identifique y resuelva instantáneamente varios tipos de problemas, incluidos álgebra, geometría, probabilidad, cálculo, inglés, física, química.",
+    
     "aboutUs": "Sobre nosotros",
-    "summary": "Math10 impulsado por IA es una herramienta innovadora que ofrece soluciones eficientes para aprender, enseñar e investigar matemáticas.",
-    "capability": "Math10 domina no solo <strong>Matemáticas</strong> sino también materias como <strong>Inglés</strong>, <strong>Física</strong> y <strong>Química</strong>. ¡Libera todo tu potencial con el poder de Math10!",
     "featuresSection": "Características",
     "features_automated_problem_solving_title": "Resolución Automatizada de Problemas",
-    "features_automated_problem_solving_description": "Identifica y resuelve instantáneamente diversos tipos de problemas, incluyendo álgebra, geometría, probabilidad y cálculo.",
     "features_step_by_step_guidance_title": "Guía Paso a Paso",
     "features_step_by_step_guidance_description": "Muestra soluciones detalladas para que los estudiantes entiendan el proceso en lugar de solo recibir respuestas.",
     "features_problem_recognition_title": "Reconocimiento de Problemas mediante Imágenes",

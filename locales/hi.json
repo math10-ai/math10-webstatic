@@ -2,10 +2,28 @@
     "introduction": "परिचय",
     "features": "विशेषताएं",
     "title": "नवीनतम AI-आधारित गणित समाधान ऐप",
-    "description": "मुफ्त ChatGPT संस्करण से बेहतर।<br><br>केवल <strong>गणित</strong> नहीं, <strong>अंग्रेजी</strong>, <strong>भौतिकी</strong>, और <strong>रसायन विज्ञान</strong> भी।<br><br>30 से अधिक भाषाओं में समर्थन।<br>",
+    
+    "description": "ChatGPT से बेहतर<br><br><strong>गणित, अंग्रेजी, भौतिकी और रसायन विज्ञान</strong> में उत्कृष्ट<br><br>30 से अधिक भाषाओं का समर्थन<br>",
+    "homeIntro": {
+      "awards": {
+        "math": {"v": "गणित", "k": "शीर्ष MCSE, ACIM प्रतियोगिता"},
+        "english": {"v": "अंग्रेजी", "k": "शीर्ष प्रश्न उत्तर, सही"},
+        "science": {"v": "विज्ञान", "k": "शीर्ष GPQA-हीरा"}
+      }
+    },
+    "solvingMath": "गणित हल करना",
+    "solvingEnglish": "अंग्रेजी हल करना",
+    "solvingChemistry": "रसायन विज्ञान हल करना",
+    "contacts": "संपर्क",
+    "contacts_label": "हमसे संपर्क करें",
+    "contacts_sp": "समर्थन",
+    "contacts_coop": "सहयोग",
+    "footer": "© 2025 Math10.AI. सर्वाधिकार सुरक्षित।",
+    "summary": "AI-संचालित Math10 एक क्रांतिकारी उपकरण है जो कृत्रिम बुद्धिमत्ता (AI) और उन्नत एल्गोरिदम को जोड़ता है। Math10.AI उपयोगकर्ताओं को बुनियादी से उन्नत स्तर तक समस्याओं को तेजी से और सटीक रूप से हल करने में मदद करता है।",
+    "capability": "Math10 न केवल <strong>गणित</strong> में बल्कि <strong>अंग्रेजी, भौतिकी और रसायन विज्ञान</strong> जैसे विषयों में भी उत्कृष्ट",    
+  
+  
     "aboutUs": "हमारे बारे में",
-    "summary": "AI-संचालित Math10 गणित सीखने, सिखाने और शोध के लिए एक क्रांतिकारी उपकरण है।",
-    "capability": "Math10 न केवल <strong>गणित</strong> बल्कि <strong>अंग्रेजी</strong>, <strong>भौतिकी</strong>, और <strong>रसायन विज्ञान</strong> में भी निपुण है। Math10 की शक्ति से अपनी क्षमता को उजागर करें!",
     "featuresSection": "विशेषताएं",
     "features_automated_problem_solving_title": "स्वचालित समस्या समाधान",
     "features_automated_problem_solving_description": "बीजगणित, ज्यामिति, संभावना और कैलकुलस समेत विविध समस्याओं का त्वरित समाधान",

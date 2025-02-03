@@ -2,13 +2,39 @@
     "introduction": "Introduktion",
     "features": "Funktioner",
     "title": "Senaste AI-drivna Matematikapplikationen",
-    "description": "Kraftfullare än gratisversionen av ChatGPT.<br><br>Stöder inte bara <strong>Matematik</strong> utan även <strong>Engelska</strong>, <strong>Fysik</strong> och <strong>Kemi</strong>.<br><br>Stöder över 30 språk.<br>",
-    "aboutUs": "Om Oss",
-    "summary": "AI-drivna Math10 är ett banbrytande verktyg för matematiklärande, undervisning och forskning.",
-    "capability": "Math10 behärskar inte bara <strong>Matematik</strong> utan även ämnen som <strong>Engelska</strong>, <strong>Fysik</strong> och <strong>Kemi</strong>. Upptäck din potential med Math10!",
+    
+      "description": "Bättre än ChatGPT<br><br>Utmärker sig inom <strong>Matematik, Engelska, Fysik och Kemi..</strong><br><br> Stöder över 30 språk<br>",
+      "homeIntro": {
+        "awards": {
+          "math": {
+            "v": "Matematik",
+            "k": "Top MCSE, ACIM Contest"
+          },
+          "english": {
+            "v": "Engelska",
+            "k": "Toppsvar på frågor, korrekt"
+          },
+          "science": {
+            "v": "Vetenskap",
+            "k": "TOP GPQA-Diamond"
+          }
+        }
+      },
+      "solvingMath": "Lösa Matematik",
+      "solvingEnglish": "Lösa Engelska",
+      "solvingChemistry": "Lösa Kemi",
+      "contacts": "Kontakter",
+      "contacts_label": "Kontakta Oss",
+      "contacts_sp": "Support",
+      "contacts_coop": "Samarbete",
+      "footer": "© 2025 Math10.AI. Alla rättigheter förbehållna.",
+      "summary": "Math10, kraftfullt av AI, är ett banbrytande verktyg som kombinerar artificiell intelligens (AI) med avancerade algoritmer. Math10.AI hjälper användare att lösa problem snabbt och exakt, från grundläggande till avancerade nivåer.",
+      "capability": "Math10 utmärker sig inte bara i matematik utan också i ämnen som <strong>Engelska, Fysik och Kemi</strong>. Lås upp din fulla potential med Math10!",
+      "features_automated_problem_solving_description": "Identifiera och lös omedelbart olika typer av problem, inklusive algebra, geometri, sannolikhet, kalkyl, engelska, fysik, kemi.",
+    
+        "aboutUs": "Om Oss",
     "featuresSection": "Funktioner",
     "features_automated_problem_solving_title": "Automatisk Problemlösning",
-    "features_automated_problem_solving_description": "Lös algebra, geometri, sannolikhet och kalkylering direkt",
     "features_step_by_step_guidance_title": "Steg-för-steg Guide",
     "features_step_by_step_guidance_description": "Detaljerad lösningsprocess för djupare förståelse",
     "features_problem_recognition_title": "Bildigenkänning",

@@ -1,1 +1,58 @@
-{}
+{
+    "introduction": "소개",
+    "features": "기능",
+    "title": "최신 AI 기반 수학 문제 해결 앱",
+    "aboutUs": "회사 소개",
+    
+    "description": "ChatGPT보다 뛰어난 성능<br><br><strong>수학, 영어, 물리학, 화학</strong> 분야에서 탁월함<br><br>30개 이상의 언어 지원<br>",
+  
+    "homeIntro": {
+      "awards": {
+        "math": {
+          "v": "수학",
+          "k": "최고의 MCSE, ACIM 대회"
+        },
+        "english": {
+          "v": "영어",
+          "k": "최고의 질문 답변 및 정확도"
+        },
+        "science": {
+          "v": "과학",
+          "k": "TOP GPQA-다이아몬드"
+        }
+      }
+    },
+  
+    "solvingMath": "수학 문제 해결",
+    "solvingEnglish": "영어 문제 해결", 
+    "solvingChemistry": "화학 문제 해결",
+    "contacts": "연락처",
+    "contacts_label": "문의하기",
+    "contacts_sp": "지원",
+    "contacts_coop": "협력",
+    
+    "footer": "© 2025 Math10.AI. 모든 권리 보유.",
+  
+    "summary": "AI 기반 Math10은 인공 지능(AI)과 고급 알고리즘을 결합한 혁신적인 도구입니다. Math10.AI는 기본부터 고급 수준까지 문제를 빠르고 정확하게 해결할 수 있도록 도와줍니다.",
+    "capability": "Math10은 <strong>수학</strong>뿐만 아니라 <strong>영어, 물리학, 화학</strong>과 같은 과목에서도 탁월합니다. Math10의 힘으로 여러분의 잠재력을 발휘해 보세요!",
+  
+    "features_automated_problem_solving_description": "대수학, 기하학, 확률, 미적분학은 물론 영어, 물리학, 화학 분야의 다양한 문제 유형을 즉시 인식하고 해결합니다.",
+  
+    "featuresSection": "주요 기능",
+    "features_automated_problem_solving_title": "자동 문제 해결",
+    "features_step_by_step_guidance_title": "단계별 안내",
+    "features_step_by_step_guidance_description": "단계별 상세한 해결 과정을 제공하여 학습자가 답뿐만 아니라 문제 해결 방법을 이해할 수 있도록 합니다.",
+    "features_problem_recognition_title": "이미지를 통한 문제 인식",
+    "features_problem_recognition_description": "이미지 스캐닝 기술을 사용하여 손글씨 또는 인쇄된 수학 문제를 인식하여 교과서에서 직접 문제를 해결할 수 있습니다.",
+    "features_multi_platform_support_title": "다중 플랫폼 지원",
+    "features_multi_platform_support_description": "스마트폰, 태블릿, 데스크톱에서 사용 가능하여 모든 사용자에게 편리함을 제공합니다.",
+    "features_target_audience_title": "주요 사용자",
+    "features_target_audience_description": "학생: 학습 기술 향상 및 시험 준비 강화\n교사: 수업 효율성 증대 및 보조 자료 제공\n연구원: 복잡한 문제 신속 해결을 통한 프로젝트 및 과학 연구 지원",
+    "features_outstanding_benefits_title": "탁월한 장점",
+    "features_outstanding_benefits_description": "수학 문제 해결에 소요되는 시간과 노력 절약\n자기 주도 학습 능력 향상 및 수학 개념 심화 이해\n비전문가도 쉽게 접근할 수 있는 수학 환경 제공",
+  
+    "footer_address_title": "주소",
+    "footer_address_description": "4 C11, Đường Đồng Bát, Cầu Giấy, Hà Nội",
+    
+    "buttonText": "현재 언어: 한국어"
+  }

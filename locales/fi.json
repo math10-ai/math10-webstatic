@@ -2,13 +2,30 @@
     "introduction": "Esittely",
     "features": "Ominaisuudet",
     "title": "Uusin tekoälypohjainen matematiikan ratkaisusovellus",
-    "description": "Tehokkaampi kuin ilmainen ChatGPT-versio.<br><br>Tukee paitsi <strong>matematiikkaa</strong> myös <strong>englantia</strong>, <strong>fysiikkaa</strong> ja <strong>kemiaa</strong>.<br><br>Yli 30 kielen tuki.<br>",
+    
+    "description": "Parempi kuin ChatGPT<br><br>Erinomainen <strong>Matematiikassa, Englannissa, Fysiikassa ja Kemiassa</strong>.<br><br>Tukee yli 30 kieltä<br>",
+    "homeIntro": {
+      "awards": {
+        "math": {"v": "Matematiikka", "k": "Huippu MCSE, ACIM-kilpailu"},
+        "english": {"v": "Englanti", "k": "Huippu kysymys vastaus, oikein"},
+        "science": {"v": "Tiede", "k": "TOP GPQA-Timantti"}
+      }
+    },
+    "solvingMath": "Ratkaisee matematiikkaa",
+    "solvingEnglish": "Ratkaisee englantia",
+    "solvingChemistry": "Ratkaisee kemiaa",
+    "contacts": "Yhteystiedot",
+    "contacts_label": "Ota yhteyttä",
+    "contacts_sp": "Tuki",
+    "contacts_coop": "Yhteistyö",
+    "footer": "© 2025 Math10.AI. Kaikki oikeudet pidätetään.",
+    "summary": "Tekoälyllä toimiva Math10 on mullistava työkalu, joka yhdistää tekoälyn (AI) ja kehittyneet algoritmit. Math10.AI auttaa käyttäjiä ratkaisemaan ongelmia nopeasti ja tarkasti perustasolta edistyneelle tasolle.",
+    "capability": "Math10 erottuu paitsi <strong>Matematiikassa</strong>, myös aineissa kuten <strong>Englanti, Fysiikka ja Kemia</strong>. Vapauta täysi potentiaalisi Math10:n voimalla!",
+    "features_automated_problem_solving_description": "Tunnista ja ratkaise välittömästi erilaisia ongelmia, kuten algebra, geometria, todennäköisyys, laskenta, englanti, fysiikka, kemia.",
+  
     "aboutUs": "Tietoja Meistä",
-    "summary": "Tekoälyllä toimiva Math10 on mullistava työkalu matematiikan oppimiseen, opettamiseen ja tutkimukseen.",
-    "capability": "Math10 hallitsee paitsi <strong>matematiikan</strong> myös aineet kuten <strong>englanti</strong>, <strong>fysiikka</strong> ja <strong>kemia</strong>. Löydä potentiaalisi Math10:n avulla!",
     "featuresSection": "Ominaisuudet",
     "features_automated_problem_solving_title": "Automaattinen ongelmanratkaisu",
-    "features_automated_problem_solving_description": "Ratkaise algebraa, geometriaa, todennäköisyyttä ja laskentaa hetkessä",
     "features_step_by_step_guidance_title": "Vaiheittainen ohjaus",
     "features_step_by_step_guidance_description": "Yksityiskohtainen ratkaisuprosessi syvällisempää ymmärtämistä varten",
     "features_problem_recognition_title": "Kuvantunnistus",

@@ -2,13 +2,32 @@
     "introduction": "مقدمة",
     "features": "الميزات",
     "title": "أحدث تطبيق لحل الرياضيات يعتمد على الذكاء الاصطناعي",
-    "description": "أفضل من النسخة المجانية من ChatGPT.<br><br>ليس فقط <strong>الرياضيات</strong> ولكن أيضًا <strong>اللغة الإنجليزية</strong> و<strong>الفيزياء</strong> و<strong>الكيمياء</strong>.<br><br>يدعم أكثر من 30 لغة.<br>",
+    
+
+    "description": "أفضل من ChatGPT<br><br>متميز في <strong>الرياضيات، الإنجليزية، الفيزياء والكيمياء</strong>.<br><br>يدعم أكثر من 30 لغة<br>",
+    "homeIntro": {
+      "awards": {
+        "math": {"v": "الرياضيات", "k": "أفضل مسابقة MCSE، ACIM"},
+        "english": {"v": "الإنجليزية", "k": "أفضل إجابة على السؤال"},
+        "science": {"v": "العلم", "k": "TOP GPQA-الماس"}
+      }
+    },
+    "solvingMath": "حل الرياضيات",
+    "solvingEnglish": "حل الإنجليزية",
+    "solvingChemistry": "حل الكيمياء",
+    "contacts": "جهات الاتصال",
+    "contacts_label": "اتصل بنا",
+    "contacts_sp": "الدعم",
+    "contacts_coop": "التعاون",
+    "footer": "© 2025 Math10.AI. جميع الحقوق محفوظة.",
+    "summary": "Math10 المدعوم بالذكاء الاصطناعي هو أداة ثورية تجمع بين الذكاء الاصطناعي والخوارزميات المتقدمة. يساعد Math10.AI المستخدمين على حل المشكلات بسرعة ودقة، من المستوى الأساسي إلى المتقدم.",
+    "capability": "لا يتفوق Math10 في <strong>الرياضيات</strong> فحسب، بل أيضًا في مواد مثل <strong>الإنجليزية، الفيزياء، والكيمياء</strong>. أطلق العنان لإمكاناتك الكاملة مع قوة Math10!",
+    "features_automated_problem_solving_description": "تحديد وحل أنواع مختلفة من المشكلات على الفور، بما في ذلك الجبر، الهندسة، الاحتمالات، التفاضل والتكامل، الإنجليزية، الفيزياء، الكيمياء.",
+  
+
     "aboutUs": "من نحن",
-    "summary": "يعد Math10 المدعوم بالذكاء الاصطناعي أداة رائدة توفر حلولًا فعالة ومبتكرة للتعلم والتعليم والبحث في الرياضيات.",
-    "capability": "يتقن Math10 ليس فقط <strong>الرياضيات</strong> ولكن أيضًا مواد مثل <strong>اللغة الإنجليزية</strong> و<strong>الفيزياء</strong> و<strong>الكيمياء</strong>. أطلق العنان لإمكاناتك الكاملة مع قوة Math10!!",
     "featuresSection": "الميزات",
     "features_automated_problem_solving_title": "حل المشكلات الآلي",
-    "features_automated_problem_solving_description": "تحديد وحل أنواع مختلفة من المشكلات بشكل فوري، بما في ذلك الجبر والهندسة والاحتمالات وحساب التفاضل والتكامل.",
     "features_step_by_step_guidance_title": "إرشادات خطوة بخطوة",
     "features_step_by_step_guidance_description": "يعرض حلولاً مفصلة تتيح للمتعلمين فهم العملية بدلاً من مجرد الحصول على الإجابات.",
     "features_problem_recognition_title": "التعرف على المشكلات عبر الصور",
