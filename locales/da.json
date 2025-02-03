@@ -2,13 +2,33 @@
     "introduction": "Introduktion",
     "features": "Funktioner",
     "title": "Den seneste AI-baserede matematikløsningsapp",
-    "description": "Bedre end den gratis version af ChatGPT.<br><br>Ikke kun <strong>Matematik</strong>, men også <strong>Engelsk</strong>, <strong>Fysik</strong> og <strong>Kemi</strong>.<br><br>Understøtter mere end 30 sprog.<br>",
+    
+    
+    "description": "Bedre end ChatGPT<br><br>Fremragende inden for <strong>Matematik, Engelsk, Fysik og Kemi</strong>.<br><br>Understøtter over 30 sprog<br>",
+    "homeIntro": {
+      "awards": {
+        "math": {"v": "Matematik", "k": "Top MCSE, ACIM-konkurrence"},
+        "english": {"v": "Engelsk", "k": "Top spørgsmål svar, korrekt"},
+        "science": {"v": "Videnskab", "k": "TOP GPQA-Diamant"}
+      }
+    },
+    "solvingMath": "Løser matematik",
+    "solvingEnglish": "Løser engelsk",
+    "solvingChemistry": "Løser kemi",
+    "contacts": "Kontakter",
+    "contacts_label": "Kontakt os",
+    "contacts_sp": "Support",
+    "contacts_coop": "Samarbejde",
+    "footer": "© 2025 Math10.AI. Alle rettigheder forbeholdes.",
+    "summary": "Den AI-drevne Math10 er et banebrydende værktøj, der kombinerer kunstig intelligens (AI) med avancerede algoritmer. Math10.AI hjælper brugere med at løse problemer hurtigt og præcist fra grundlæggende til avancerede niveauer.",
+    "capability": "Math10 udmærker sig ikke kun i <strong>Matematik</strong>, men også i fag som <strong>Engelsk, Fysik og Kemi</strong>. Lås din fulde potentiale med Math10s kraft!",
+    "features_automated_problem_solving_description": "Identificer og løs øjeblikkeligt forskellige typer problemer, herunder algebra, geometri, sandsynlighed, calculus, engelsk, fysik, kemi.",
+    
     "aboutUs": "Om os",
-    "summary": "Den AI-drevne Math10 er et banebrydende værktøj, der giver effektive og innovative løsninger til indlæring, undervisning og forskning i matematik.",
-    "capability": "Math10 mestre ikke kun <strong>Matematik</strong>, men også fag som <strong>Engelsk</strong>, <strong>Fysik</strong> og <strong>Kemi</strong>. Lås op for din fulde potentiale med Math10!",
+    
+    
     "featuresSection": "Funktioner",
     "features_automated_problem_solving_title": "Automatiseret problemløsning",
-    "features_automated_problem_solving_description": "Identificer og løs forskellige typer problemer med det samme, herunder algebra, geometri, sandsynlighed og calculus.",
     "features_step_by_step_guidance_title": "Trin-for-trin vejledning",
     "features_step_by_step_guidance_description": "Viser detaljerede løsninger, så lærerne kan forstå processen i stedet for kun at få svarene.",
     "features_problem_recognition_title": "Problemgenskendelse via billeder",

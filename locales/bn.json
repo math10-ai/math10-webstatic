@@ -2,13 +2,32 @@
     "introduction": "ভূমিকা",
     "features": "বৈশিষ্ট্য",
     "title": "সর্বশেষ AI-ভিত্তিক গণিত সমাধান অ্যাপ",
-    "description": "ফ্রি ChatGPT সংস্করণের চেয়ে শক্তিশালী।<br><br>শুধু <strong>গণিত</strong> নয়, <strong>ইংরেজি</strong>, <strong>পদার্থবিদ্যা</strong> এবং <strong>রসায়ন</strong> সমর্থন করে।<br><br>30টিরও বেশি ভাষা সমর্থিত।<br>",
+  
+    "description": "ChatGPT-এর চেয়ে ভালো<br><br><strong>গণিত, ইংরেজি, পদার্থবিদ্যা এবং রসায়নে</strong> দক্ষ<br><br>৩০টিরও বেশি ভাষা সমর্থিত<br>",
+    "homeIntro": {
+      "awards": {
+        "math": {"v": "গণিত", "k": "শীর্ষ MCSE, ACIM প্রতিযোগিতা"},
+        "english": {"v": "ইংরেজি", "k": "শীর্ষ প্রশ্নের উত্তর, সঠিক"},
+        "science": {"v": "বিজ্ঞান", "k": "TOP GPQA-হীরা"}
+      }
+    },
+    "solvingMath": "গণিত সমাধান",
+    "solvingEnglish": "ইংরেজি সমাধান",
+    "solvingChemistry": "রসায়ন সমাধান",
+    "contacts": "যোগাযোগ",
+    "contacts_label": "আমাদের সাথে যোগাযোগ করুন",
+    "contacts_sp": "সহায়তা",
+    "contacts_coop": "সহযোগিতা",
+    "footer": "© ২০২৫ Math10.AI. সর্বস্বত্ব সংরক্ষিত।",
+    "summary": "AI-চালিত Math10 হল একটি বিপ্লবী টুল যা কৃত্রিম বুদ্ধিমত্তা (AI) এবং উন্নত অ্যালগরিদমকে একত্রিত করে। Math10.AI ব্যবহারকারীদের প্রাথমিক থেকে উন্নত স্তর পর্যন্ত সমস্যাগুলি দ্রুত এবং নির্ভুলভাবে সমাধান করতে সাহায্য করে।",
+    "capability": "Math10 শুধুমাত্র <strong>গণিতে</strong> নয়, <strong>ইংরেজি, পদার্থবিদ্যা এবং রসায়নের</strong> মতো বিষয়েও পারদর্শী। Math10-এর শক্তি দিয়ে আপনার সম্পূর্ণ সম্ভাবনা উন্মোচন করুন!",
+    "features_automated_problem_solving_description": "বীজগণিত, জ্যামিতি, সম্ভাবনা, ক্যালকুলাস, ইংরেজি, পদার্থবিদ্যা, রসায়ন সহ বিভিন্ন ধরনের সমস্যা তাত্ক্ষণিকভাবে চিহ্নিত করুন এবং সমাধান করুন।",
+
     "aboutUs": "আমাদের সম্পর্কে",
-    "summary": "AI-চালিত Math10 হল গণিত শেখা, শেখানো এবং গবেষণার জন্য একটি যুগান্তকারী সরঞ্জাম।",
-    "capability": "Math10 শুধুমাত্র <strong>গণিত</strong> নয়, <strong>ইংরেজি</strong>, <strong>পদার্থবিদ্যা</strong> এবং <strong>রসায়ন</strong> বিষয়েও দক্ষ। Math10 এর শক্তি দিয়ে আপনার সম্পূর্ণ সম্ভাবনা উন্মোচন করুন!",
+   
     "featuresSection": "বৈশিষ্ট্য",
     "features_automated_problem_solving_title": "স্বয়ংক্রিয় সমস্যা সমাধান",
-    "features_automated_problem_solving_description": "বীজগণিত, জ্যামিতি, সম্ভাবনা এবং ক্যালকুলাস সহ নানা সমস্যার তাৎক্ষণিক সমাধান",
+    
     "features_step_by_step_guidance_title": "ধাপে ধাপে নির্দেশিকা",
     "features_step_by_step_guidance_description": "সমাধান প্রক্রিয়া বিস্তারিতভাবে প্রদর্শন করে গভীর বোঝাপড়া উন্নত করুন",
     "features_problem_recognition_title": "ছবি সনাক্তকরণ প্রযুক্তি",

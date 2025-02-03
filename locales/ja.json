@@ -2,13 +2,40 @@
     "introduction": "紹介",
     "features": "機能",
     "title": "最新AI搭載数学問題解決アプリ",
-    "description": "無料版ChatGPTよりも高性能。<br><br><strong>数学</strong>だけでなく<strong>英語</strong>、<strong>物理</strong>、<strong>化学</strong>にも対応。<br><br>30以上の言語をサポート。<br>",
+    
+    "description": "ChatGPTより優れています<br><br><strong>数学、英語、物理、化学</strong>に卓越<br><br>30以上の言語をサポート<br>",
+    "homeIntro": {
+      "awards": {
+        "math": {
+          "v": "数学",
+          "k": "トップMCSE、ACIMコンテスト"
+        },
+        "english": {
+          "v": "英語",
+          "k": "トップ質問回答、正確"
+        },
+        "science": {
+          "v": "科学",
+          "k": "TOP GPQA-ダイヤモンド"
+        }
+      }
+    },
+    "solvingMath": "数学を解く",
+    "solvingEnglish": "英語を解く",
+    "solvingChemistry": "化学を解く",
+    "contacts": "連絡先",
+    "contacts_label": "お問い合わせ",
+    "contacts_sp": "サポート",
+    "contacts_coop": "協力",
+    "footer": "© 2025 Math10.AI. 全著作権所有。",
+    "summary": "AIを活用したMath10は、人工知能（AI）と高度なアルゴリズムを組み合わせた画期的なツールです。Math10.AIは、基本的な問題から高度な問題まで、迅速かつ正確に解決するのに役立ちます。",
+    "capability": "Math10は<strong>数学</strong>だけでなく、<strong>英語、物理、化学</strong>のような科目でも優れています。Math10の力で可能性を最大限に引き出しましょう！",
+    "features_automated_problem_solving_description": "代数、幾何学、確率、微積分、英語、物理、化学を含むさまざまな種類の問題を即座に識別して解決します。",
     "aboutUs": "私たちについて",
-    "summary": "AI搭載のMath10は、数学の学習・教育・研究のための革新的なソリューションを提供する画期的なツールです。",
-    "capability": "Math10は<strong>数学</strong>だけでなく<strong>英語</strong>、<strong>物理</strong>、<strong>化学</strong>にも精通しています。Math10のパワーで可能性を解き放ちましょう！",
+
+
     "featuresSection": "特徴",
     "features_automated_problem_solving_title": "自動問題解決",
-    "features_automated_problem_solving_description": "代数、幾何学、確率、微積分など様々な問題を即座に解決",
     "features_step_by_step_guidance_title": "ステップバイステップガイド",
     "features_step_by_step_guidance_description": "解答プロセスを詳細に表示し、答えだけでなく理解を促進",
     "features_problem_recognition_title": "画像認識機能",

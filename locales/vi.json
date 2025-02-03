@@ -2,13 +2,39 @@
     "introduction": "Giới thiệu",
     "features": "Tính năng",
     "title": "Ứng dụng Giải Toán bằng AI Mới Nhất",
-    "description": "Mạnh mẽ hơn phiên bản ChatGPT miễn phí.<br><br>Không chỉ <strong>Toán học</strong> mà còn hỗ trợ <strong>Tiếng Anh</strong>, <strong>Vật lý</strong> và <strong>Hóa học</strong>.<br><br>Hỗ trợ hơn 30 ngôn ngữ.<br>",
-    "aboutUs": "Về chúng tôi",
-    "summary": "Math10 tích hợp AI là công cụ đột phá cung cấp giải pháp học tập, giảng dạy và nghiên cứu toán học hiệu quả.",
-    "capability": "Math10 không chỉ thành thạo <strong>Toán học</strong> mà còn xuất sắc trong các môn <strong>Tiếng Anh</strong>, <strong>Vật lý</strong> và <strong>Hóa học</strong>. Khám phá tiềm năng của bạn với Math10!",
+    
+      "description": "Tốt hơn ChatGPT<br><br>Xuất sắc trong <strong>Toán học, Tiếng Anh, Vật lý và Hóa học..</strong><br><br> Hỗ trợ hơn 30 ngôn ngữ<br>",
+      "homeIntro": {
+        "awards": {
+          "math": {
+            "v": "Toán học",
+            "k": "Top MCSE, Cuộc thi ACIM"
+          },
+          "english": {
+            "v": "Tiếng Anh",
+            "k": "Câu trả lời đúng nhất cho câu hỏi"
+          },
+          "science": {
+            "v": "Khoa học",
+            "k": "TOP GPQA-Diamond"
+          }
+        }
+      },
+      "solvingMath": "Giải Toán",
+      "solvingEnglish": "Giải Tiếng Anh",
+      "solvingChemistry": "Giải Hóa học",
+      "contacts": "Liên hệ",
+      "contacts_label": "Liên hệ với chúng tôi",
+      "contacts_sp": "Hỗ trợ",
+      "contacts_coop": "Hợp tác",
+      "footer": "© 2025 Math10.AI. Bảo lưu tất cả quyền.",
+      "summary": "Math10, powered by AI, là một công cụ đột phá kết hợp trí tuệ nhân tạo (AI) với các thuật toán tiên tiến. Math10.AI giúp người dùng giải quyết các vấn đề một cách nhanh chóng và chính xác, từ cơ bản đến nâng cao.",
+      "capability": "Math10 không chỉ xuất sắc trong Toán học mà còn trong các môn như <strong>Tiếng Anh, Vật lý và Hóa học</strong>. Khám phá toàn bộ tiềm năng của bạn với Math10!",
+      "features_automated_problem_solving_description": "Xác định và giải quyết ngay lập tức nhiều loại vấn đề, bao gồm đại số, hình học, xác suất, phép tính, tiếng Anh, vật lý, hóa học.",
+    
+        "aboutUs": "Về chúng tôi",
     "featuresSection": "Tính năng",
     "features_automated_problem_solving_title": "Giải bài tự động",
-    "features_automated_problem_solving_description": "Giải quyết tức thì các dạng bài từ đại số, hình học, xác suất đến vi tích phân",
     "features_step_by_step_guidance_title": "Hướng dẫn từng bước",
     "features_step_by_step_guidance_description": "Hiển thị quy trình giải chi tiết giúp người học hiểu bản chất vấn đề",
     "features_problem_recognition_title": "Nhận dạng bài qua hình ảnh",

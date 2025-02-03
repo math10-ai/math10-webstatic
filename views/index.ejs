@@ -65,32 +65,21 @@
                 <div class="home-intro__awards">
                   <div class="c-award">
                     <div class="c-award__body">
-                      <div class="c-award__v">Math</div>
-                      <div class="c-award__k">Top MCSE, ACIM Contest</div>
+                      <div class="c-award__v"><%= __("homeIntro.awards.math.v") %></div>
+                      <div class="c-award__k"><%= __("homeIntro.awards.math.k") %></div>
                     </div>
-                    <div class="c-award__desc d-lg-none">
-                      <div class="text-uppercase">#1 free iPhone app</div>
-                      <div>in <strong>154</strong> countries in <strong>2019</strong></div>
+
+                  </div>
+                  <div class="c-award">
+                    <div class="c-award__body">
+                      <div class="c-award__v"><%= __("homeIntro.awards.english.v") %></div>
+                      <div class="c-award__k"><%= __("homeIntro.awards.english.k") %></div>
                     </div>
                   </div>
                   <div class="c-award">
                     <div class="c-award__body">
-                      <div class="c-award__v">English</div>
-                      <div class="c-award__k">Top 1 of 2019</div>
-                    </div>
-                    <div class="c-award__desc d-lg-none">
-                      <div class="text-uppercase">Top 1 Google Play</div>
-                      <div>overall in <strong>99/101</strong> countries in <strong>2019</strong></div>
-                    </div>
-                  </div>
-                  <div class="c-award">
-                    <div class="c-award__body">
-                      <div class="c-award__v">Science</div>
-                      <div class="c-award__k">TOP</div>
-                    </div>
-                    <div class="c-award__desc d-lg-none">
-                      <div class="text-uppercase">&amp; Active users</div>
-                      <div>all over the World</div>
+                      <div class="c-award__v"><%= __("homeIntro.awards.science.v") %></div>
+                      <div class="c-award__k"><%= __("homeIntro.awards.science.k") %></div>
                     </div>
                   </div>
                 </div>
@@ -114,15 +103,23 @@
           <div class="col-md-6 col-12">
             <div class="hero-img">
 
-              <strong style="color:#69a6fb">Solving Math </strong>
-              
+              <strong style="color:yellow"><%= __("solvingMath") %></strong>
+              <br><br>
+
+              <img src="./images/demo/gpt.jpeg" alt="" style="border-radius: 5px" />
+            
+              <br><br>
+              <strong style="color:yellow"><%= __("solvingEnglish") %></strong>
+
               <img src="./images/demo/hoa.png" alt="" style="border-radius: 5px" />
-            <p>
-              <span style="color:#f6b60b">Solving Chemistry </span>
+           
+              <br><br>
+              <strong span style="color:yellow"><%= __("solvingChemistry") %></strong>
+
+      
               <img src="./images/demo/hoa.png" alt="" style="border-radius: 5px" />
-            <p>
-              <span style="color:#f6b60b">Solving English</span>
-              <img src="./images/demo/hoa.jpg" alt="" style="border-radius: 5px" />
+
+              <br><br>
               
             </div>
           </div>
@@ -235,23 +232,25 @@
                   <div class="col-12 col-md-6 mt-6 col-lg-3 astro-SZ7XMLTE">
                     <div class="footer__navs astro-SZ7XMLTE">
                       <nav class="footer__nav astro-SZ7XMLTE">
-                        <h3 class="footer__category astro-SZ7XMLTE">Contacts</h3>
+                        <h3 class="footer__category astro-SZ7XMLTE">
+                          <%= __("contacts") %>   
+                          </h3>
                         <ul class="footer__menu astro-SZ7XMLTE">
                           <li class="astro-SZ7XMLTE">
                             <a href="mailto:contact@math10.ai" class="astro-SZ7XMLTE">
-                              Contact Us
+                              <%= __("contacts_label") %>   
   
                             </a>
                           </li>
                           <li class="astro-SZ7XMLTE">
                             <a href="mailto:support@math10.ai" class="astro-SZ7XMLTE">
-                              Support
+                              <%= __("contacts_sp") %>   
   
                             </a>
                           </li>
                           <li class="astro-SZ7XMLTE">
                             <a href="mailto:cooperation@math10.ai" class="astro-SZ7XMLTE">
-                             Cooperation
+                              <%= __("contacts_coop") %>   
   
                             </a>
                           </li>
@@ -329,7 +328,7 @@
         <div class="footer__bottom astro-SZ7XMLTE">
           <div class="container astro-SZ7XMLTE">
            
-            <div class="footer__copy astro-SZ7XMLTE">© 2025 Math10.AI. All Rights Reserved. </div>
+            <div class="footer__copy astro-SZ7XMLTE"><%= __("footer") %>   </div>
           </div>
         </div>
       </footer>

@@ -2,10 +2,26 @@
     "introduction": "Introduzione",
     "features": "Caratteristiche",
     "title": "La più recente app di matematica basata sull'IA",
-    "description": "Meglio della versione gratuita di ChatGPT.<br><br>Non solo <strong>Matematica</strong> ma anche <strong>Inglese</strong>, <strong>Fisica</strong> e <strong>Chimica</strong>.<br><br>Supporta più di 30 lingue.<br>",
+    "description": "ChatGPT से बेहतर<br><br><strong>गणित, अंग्रेजी, भौतिकी और रसायन विज्ञान</strong> में उत्कृष्ट<br><br>30 से अधिक भाषाओं का समर्थन<br>",
+    "homeIntro": {
+      "awards": {
+        "math": {"v": "गणित", "k": "शीर्ष MCSE, ACIM प्रतियोगिता"},
+        "english": {"v": "अंग्रेजी", "k": "शीर्ष प्रश्न उत्तर, सही"},
+        "science": {"v": "विज्ञान", "k": "शीर्ष GPQA-हीरा"}
+      }
+    },
+    "solvingMath": "गणित हल करना",
+    "solvingEnglish": "अंग्रेजी हल करना",
+    "solvingChemistry": "रसायन विज्ञान हल करना",
+    "contacts": "संपर्क",
+    "contacts_label": "हमसे संपर्क करें",
+    "contacts_sp": "समर्थन",
+    "contacts_coop": "सहयोग",
+    "footer": "© 2025 Math10.AI. सर्वाधिकार सुरक्षित।",
+    "summary": "AI-संचालित Math10 एक क्रांतिकारी उपकरण है जो कृत्रिम बुद्धिमत्ता (AI) और उन्नत एल्गोरिदम को जोड़ता है। Math10.AI उपयोगकर्ताओं को बुनियादी से उन्नत स्तर तक समस्याओं को तेजी से और सटीक रूप से हल करने में मदद करता है।",
+    "capability": "Math10 न केवल <strong>गणित</strong> में बल्कि <strong>अंग्रेजी, भौतिकी और रसायन विज्ञान</strong> जैसे विषयों में भी उत्कृष्ट",        
+
     "aboutUs": "Chi siamo",
-    "summary": "Math10 alimentato dall'IA è uno strumento rivoluzionario che fornisce soluzioni efficienti e innovative per l'apprendimento, l'insegnamento e la ricerca matematica.",
-    "capability": "Math10 eccelle non solo in <strong>Matematica</strong> ma anche in materie come <strong>Inglese</strong>, <strong>Fisica</strong> e <strong>Chimica</strong>. Libera tutto il tuo potenziale con la potenza di Math10!!",
     "featuresSection": "Caratteristiche",
     "features_automated_problem_solving_title": "Risoluzione Automatica dei Problemi",
     "features_automated_problem_solving_description": "Identifica e risolve istantaneamente vari tipi di problemi tra cui algebra, geometria, probabilità e calcolo.",

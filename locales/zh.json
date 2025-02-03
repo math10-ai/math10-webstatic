@@ -2,13 +2,39 @@
     "introduction": "简介",
     "features": "功能",
     "title": "最新基于人工智能的数学解题应用",
-    "description": "比免费版ChatGPT更强大。<br><br>不仅支持<strong>数学</strong>，还包括<strong>英语</strong>、<strong>物理</strong>和<strong>化学</strong>。<br><br>支持30多种语言。<br>",
-    "aboutUs": "关于我们",
-    "summary": "人工智能驱动的Math10是一款开创性工具，为数学学习、教学和研究提供高效创新解决方案。",
-    "capability": "Math10不仅精通<strong>数学</strong>，还擅长<strong>英语</strong>、<strong>物理</strong>和<strong>化学</strong>等科目。释放您的全部潜力，体验Math10的强大功能！！",
+    
+      "description": "比 ChatGPT 更强<br><br>擅长 <strong>数学、英语、物理和化学..</strong><br><br> 支持超过30种语言<br>",
+      "homeIntro": {
+        "awards": {
+          "math": {
+            "v": "数学",
+            "k": "Top MCSE, ACIM 大赛"
+          },
+          "english": {
+            "v": "英语",
+            "k": "最佳问题回答，正确"
+          },
+          "science": {
+            "v": "科学",
+            "k": "TOP GPQA-Diamond"
+          }
+        }
+      },
+      "solvingMath": "解决数学问题",
+      "solvingEnglish": "解决英语问题",
+      "solvingChemistry": "解决化学问题",
+      "contacts": "联系方式",
+      "contacts_label": "联系我们",
+      "contacts_sp": "支持",
+      "contacts_coop": "合作",
+      "footer": "© 2025 Math10.AI. 版权所有。",
+      "summary": "Math10 是一款由人工智能驱动的革命性工具，结合了人工智能（AI）和先进的算法。Math10.AI 帮助用户快速准确地解决问题，从基础到高级水平。",
+      "capability": "Math10 不仅在数学上表现出色，还在 <strong>英语、物理和化学</strong> 等学科中表现卓越。通过 Math10 发挥您的全部潜力！",
+      "features_automated_problem_solving_description": "即时识别并解决各种类型的问题，包括代数、几何、概率、微积分、英语、物理、化学。",
+    
+        "aboutUs": "关于我们",
     "featuresSection": "功能",
     "features_automated_problem_solving_title": "自动解题",
-    "features_automated_problem_solving_description": "即时识别解决各类问题，包括代数、几何、概率和微积分。",
     "features_step_by_step_guidance_title": "分步指导",
     "features_step_by_step_guidance_description": "显示详细解题步骤，帮助学习者理解过程而不仅仅是获得答案。",
     "features_problem_recognition_title": "图像识别题目",

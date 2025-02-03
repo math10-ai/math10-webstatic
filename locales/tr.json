@@ -2,13 +2,39 @@
     "introduction": "Giriş",
     "features": "Özellikler",
     "title": "En Yeni AI Destekli Matematik Çözüm Uygulaması",
-    "description": "Ücretsiz ChatGPT sürümünden daha güçlü.<br><br>Sadece <strong>Matematik</strong> değil, <strong>İngilizce</strong>, <strong>Fizik</strong> ve <strong>Kimya</strong> desteği.<br><br>30'dan fazla dil desteği.<br>",
-    "aboutUs": "Hakkımızda",
-    "summary": "AI destekli Math10, matematik öğrenme, öğretme ve araştırma için yenilikçi bir araçtır.",
-    "capability": "Math10 sadece <strong>Matematik</strong> değil, <strong>İngilizce</strong>, <strong>Fizik</strong> ve <strong>Kimya</strong> alanlarında da uzmandır. Math10 ile potansiyelinizi keşfedin!",
+    
+      "description": "ChatGPT'den Daha İyi<br><br><strong>Matematik, İngilizce, Fizik ve Kimya</strong> alanlarında başarılıdır..<br><br> 30'dan fazla dili destekler<br>",
+      "homeIntro": {
+        "awards": {
+          "math": {
+            "v": "Matematik",
+            "k": "Top MCSE, ACIM Yarışması"
+          },
+          "english": {
+            "v": "İngilizce",
+            "k": "En İyi Soru Cevabı, Doğru"
+          },
+          "science": {
+            "v": "Bilim",
+            "k": "TOP GPQA-Diamond"
+          }
+        }
+      },
+      "solvingMath": "Matematik Çözme",
+      "solvingEnglish": "İngilizce Çözme",
+      "solvingChemistry": "Kimya Çözme",
+      "contacts": "İletişim",
+      "contacts_label": "Bize Ulaşın",
+      "contacts_sp": "Destek",
+      "contacts_coop": "İşbirliği",
+      "footer": "© 2025 Math10.AI. Tüm hakları saklıdır.",
+      "summary": "Yapay zeka (AI) destekli Math10, yapay zeka (AI) ve gelişmiş algoritmaları birleştiren çığır açan bir araçtır. Math10.AI, kullanıcıların sorunları hızla ve doğru bir şekilde çözmelerine yardımcı olur, temel seviyeden ileri seviyeye kadar.",
+      "capability": "Math10, yalnızca Matematikte değil, aynı zamanda <strong>İngilizce, Fizik ve Kimya</strong> gibi derslerde de mükemmeldir. Math10'un gücüyle tam potansiyelinizi açığa çıkarın!",
+      "features_automated_problem_solving_description": "Hızla çeşitli problem türlerini tanımlayın ve çözün, bunlar arasında cebir, geometri, olasılık, kalkülüs, İngilizce, fizik, kimya.",
+    
+        "aboutUs": "Hakkımızda",
     "featuresSection": "Özellikler",
     "features_automated_problem_solving_title": "Otomatik Problem Çözme",
-    "features_automated_problem_solving_description": "Cebir, geometri, olasılık ve kalkülüs dahil çeşitli problemleri anında çözün",
     "features_step_by_step_guidance_title": "Adım Adım Rehberlik",
     "features_step_by_step_guidance_description": "Çözüm sürecini detaylı göstererek derinlemesine anlama sağlayın",
     "features_problem_recognition_title": "Görüntü Tanıma Teknolojisi",

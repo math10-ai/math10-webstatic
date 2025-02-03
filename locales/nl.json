@@ -2,13 +2,53 @@
     "introduction": "Introductie",
     "features": "Functies",
     "title": "Nieuwste AI-gestuurde Wiskunde Oplossingsapp",
-    "description": "Krachtiger dan gratis ChatGPT.<br><br>Ondersteunt niet alleen <strong>Wiskunde</strong> maar ook <strong>Engels</strong>, <strong>Natuurkunde</strong> en <strong>Scheikunde</strong>.<br><br>Meer dan 30 talen ondersteund.<br>",
+
+    "description": "Better than ChatGPT<br><br>Excels in <strong>Math, English, Physics and Chemistry..</strong><br><br> Supports over 30 languages<br>",
+
+    "homeIntro": {
+      "awards": {
+        "math": {
+          "v": "Math",
+          "k": "Top MCSE, ACIM Contest"
+        },
+        "english": {
+          "v": "English",
+          "k": "Top Question Answer, Correct"
+        },
+        "science": {
+          "v": "Science",
+          "k": "TOP GPQA-Diamond"
+        }
+      }
+    },
+
+
+    
+    "solvingMath": "Solving Math",
+     
+    "solvingEnglish": "Solving English",
+     
+    "solvingChemistry": "Solving Chemistry",
+    "contacts": "Contacts",
+    "contacts_label": "Contact Us",
+    "contacts_sp": "Support",
+    "contacts_coop": "Cooperation",
+    
+    "footer": "© 2025 Math10.AI. All Rights Reserved. ",
+
+
+      
+  
+
+
+    "summary": "The AI-powered Math10 is a groundbreaking tool that combines artificial intelligence (AI) with advanced algorithms. Math10.AI helps users solve problems quickly and accurately, from basic to advanced levels.",
+    "capability": "Math10 excels not only in Math but also in subjects like <strong>English, Physics, and Chemistry </strong>. Unlock your full potential with the power of Math10!",
+
+    "features_automated_problem_solving_description": "Instantly identify and solve various types of problems, including algebra, geometry, probability, calculus, english, physics, chemistry.",
     "aboutUs": "Over Ons",
-    "summary": "De AI-aangedreven Math10 is een baanbrekend hulpmiddel voor wiskundig leren, lesgeven en onderzoek.",
-    "capability": "Math10 beheerst niet alleen <strong>Wiskunde</strong> maar ook vakken zoals <strong>Engels</strong>, <strong>Natuurkunde</strong> en <strong>Scheikunde</strong>. Ontketen je potentieel met Math10!",
+
     "featuresSection": "Kenmerken",
     "features_automated_problem_solving_title": "Automatisch Oplossen",
-    "features_automated_problem_solving_description": "Directe oplossingen voor algebra, meetkunde, kansrekening en calculus",
     "features_step_by_step_guidance_title": "Stapsgewijze Uitleg",
     "features_step_by_step_guidance_description": "Gedetailleerde oplossingsprocessen voor dieper begrip",
     "features_problem_recognition_title": "Beeldherkenning",

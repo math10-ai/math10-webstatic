@@ -2,13 +2,31 @@
     "introduction": "Einführung",
     "features": "Funktionen",
     "title": "Die neueste KI-basierte Mathe-Lösungs-App",
-    "description": "Besser als die kostenlose ChatGPT-Version.<br><br>Nicht nur <strong>Mathematik</strong>, sondern auch <strong>Englisch</strong>, <strong>Physik</strong> und <strong>Chemie</strong>.<br><br>Unterstützt über 30 Sprachen.<br>",
+    
+    "description": "Besser als ChatGPT<br><br>Hervorragend in <strong>Mathematik, Englisch, Physik und Chemie</strong>.<br><br>Unterstützt über 30 Sprachen<br>",
+    "homeIntro": {
+      "awards": {
+        "math": {"v": "Mathematik", "k": "Top MCSE, ACIM Wettbewerb"},
+        "english": {"v": "Englisch", "k": "Top Frage Antwort, korrekt"},
+        "science": {"v": "Wissenschaft", "k": "TOP GPQA-Diamant"}
+      }
+    },
+    "solvingMath": "Mathematik lösen",
+    "solvingEnglish": "Englisch lösen",
+    "solvingChemistry": "Chemie lösen",
+    "contacts": "Kontakte",
+    "contacts_label": "Kontaktieren Sie uns",
+    "contacts_sp": "Support",
+    "contacts_coop": "Zusammenarbeit",
+    "footer": "© 2025 Math10.AI. Alle Rechte vorbehalten.",
+    "summary": "Das KI-gestützte Math10 ist ein bahnbrechendes Tool, das künstliche Intelligenz (KI) mit fortschrittlichen Algorithmen kombiniert. Math10.AI hilft Nutzern, Probleme schnell und präzise von Grund- bis Fortgeschrittenenniveau zu lösen.",
+    "capability": "Math10 zeichnet sich nicht nur in <strong>Mathematik</strong> aus, sondern auch in Fächern wie <strong>Englisch, Physik und Chemie</strong>. Entfesseln Sie Ihr volles Potenzial mit der Kraft von Math10!",
+    "features_automated_problem_solving_description": "Identifizieren und lösen Sie sofort verschiedene Problemtypen, einschließlich Algebra, Geometrie, Wahrscheinlichkeit, Analysis, Englisch, Physik, Chemie.",
+    
+    
     "aboutUs": "Über uns",
-    "summary": "Die KI-gestützte Math10-App ist ein bahnbrechendes Tool, das effiziente und innovative Lösungen für das Lernen, Lehren und Erforschen von Mathematik bietet.",
-    "capability": "Math10 beherrscht nicht nur <strong>Mathematik</strong>, sondern auch Fächer wie <strong>Englisch</strong>, <strong>Physik</strong> und <strong>Chemie</strong>. Entfesseln Sie Ihr volles Potenzial mit der Kraft von Math10!!",
     "featuresSection": "Funktionen",
     "features_automated_problem_solving_title": "Automatische Problembehebung",
-    "features_automated_problem_solving_description": "Erkennt und löst sofort verschiedene Problemtypen, einschließlich Algebra, Geometrie, Wahrscheinlichkeit und Analysis.",
     "features_step_by_step_guidance_title": "Schritt-für-Schritt-Anleitung",
     "features_step_by_step_guidance_description": "Zeigt detaillierte Lösungen, damit Lernende den Prozess verstehen können, anstatt nur Antworten zu erhalten.",
     "features_problem_recognition_title": "Problemerkennung über Bilder",
