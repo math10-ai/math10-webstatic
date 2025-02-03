@@ -1,0 +1,26 @@
+/* button-styles.css */
+
+/* iOS and Android Button Style */
+.ios-button, .android-button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    display: inline-flex; 
+    justify-content: center;
+    align-items: center;
+    width: 150px; 
+    height: 43px; 
+  }
+  
+  .ios-button:hover, .android-button:hover {
+    transform: scale(1.3);
+  }
+  
+  .button-icon {
+    max-width: 100%; 
+    max-height: 100%;
+    object-fit: contain;
+  }
+  
