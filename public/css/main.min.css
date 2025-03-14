@@ -4995,6 +4995,7 @@ body {
 @media (min-width: 1025px) {
     .home-intro__awards {
         flex-direction:row;
+        flex-direction: column;
         margin-top: 108px
     }
 }
