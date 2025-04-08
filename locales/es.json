@@ -1,9 +1,9 @@
 {
     "introduction": "Introducción",
     "features": "Características",
-    "title": "La última aplicación de resolución matemática basada en IA",
+    "title": "Tu tutor con IA — Matemáticas, Ciencias, Inglés y más",
     
-    "description": "Mejor que ChatGPT<br><br>Destaca en <strong>Matemáticas, Inglés, Física y Química</strong>.<br><br>Admite más de 30 idiomas<br>",
+    "description": "Mejor que ChatGPT<br><br>Destaca en <strong>resolución de problemas de matemáticas, ciencias e inglés</strong><br><br>Resuelve y traduce preguntas en más de 30 idiomas — simplemente toma una foto y pregunta<br>",
     "homeIntro": {
       "awards": {
         "math": {"v": "Matemáticas", "k": "Concurso MCSE, ACIM superior"},

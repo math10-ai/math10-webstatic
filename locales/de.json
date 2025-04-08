@@ -1,9 +1,9 @@
 {
     "introduction": "Einführung",
     "features": "Funktionen",
-    "title": "Die neueste KI-basierte Mathe-Lösungs-App",
+    "title": "Dein KI-Tutor — Mathe, Naturwissenschaften, Englisch & mehr",
     
-    "description": "Besser als ChatGPT<br><br>Hervorragend in <strong>Mathematik, Englisch, Physik und Chemie</strong>.<br><br>Unterstützt über 30 Sprachen<br>",
+    "description": "Besser als ChatGPT<br><br>Hervorragend in <strong>Mathematik, Naturwissenschaften und englischer Problemlösung</strong><br><br>Löst und übersetzt Fragen in über 30 Sprachen — einfach fotografieren und fragen<br>",
     "homeIntro": {
       "awards": {
         "math": {"v": "Mathematik", "k": "Top MCSE, ACIM Wettbewerb"},

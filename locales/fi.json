@@ -1,9 +1,9 @@
 {
     "introduction": "Esittely",
     "features": "Ominaisuudet",
-    "title": "Uusin tekoälypohjainen matematiikan ratkaisusovellus",
+    "title": "Sinun tekoälyopettajasi — Matematiikkaa, Tiedettä, Englantia ja muuta",
     
-    "description": "Parempi kuin ChatGPT<br><br>Erinomainen <strong>Matematiikassa, Englannissa, Fysiikassa ja Kemiassa</strong>.<br><br>Tukee yli 30 kieltä<br>",
+    "description": "Parempi kuin ChatGPT<br><br>Erinomainen <strong>matematiikan, luonnontieteiden ja englannin ongelmanratkaisussa</strong><br><br>Ratkaisee ja kääntää kysymyksiä yli 30 kielellä — ota vain kuva ja kysy<br>",
     "homeIntro": {
       "awards": {
         "math": {"v": "Matematiikka", "k": "Huippu MCSE, ACIM-kilpailu"},

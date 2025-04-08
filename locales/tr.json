@@ -1,10 +1,10 @@
 {
     "introduction": "Giriş",
     "features": "Özellikler",
-    "title": "En Yeni AI Destekli Matematik Çözüm Uygulaması",
+    "title": "Senin Yapay Zekâ Öğretmenin — Matematik, Fen, İngilizce ve daha fazlası",
     
-      "description": "ChatGPT'den Daha İyi<br><br><strong>Matematik, İngilizce, Fizik ve Kimya</strong> alanlarında başarılıdır..<br><br> 30'dan fazla dili destekler<br>",
-      "homeIntro": {
+    "description": "ChatGPT'den daha iyi<br><br><strong>Matematik, Fen ve İngilizce problem çözmede</strong> üstün<br><br>30'dan fazla dilde soruları çözer ve çevirir — sadece fotoğraf çekin ve sorun<br>",
+    "homeIntro": {
         "awards": {
           "math": {
             "v": "Matematik",

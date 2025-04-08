@@ -1,10 +1,10 @@
 {
     "introduction": "Giới thiệu",
     "features": "Tính năng",
-    "title": "Ứng dụng Giải Toán bằng AI Mới Nhất",
+    "title": "Gia sư AI của bạn — Toán, Khoa học, Tiếng Anh và hơn thế nữa",
     
-      "description": "Tốt hơn ChatGPT<br><br>Xuất sắc trong <strong>Toán học, Tiếng Anh, Vật lý và Hóa học..</strong><br><br> Hỗ trợ hơn 30 ngôn ngữ<br>",
-      "homeIntro": {
+    "description": "Tốt hơn ChatGPT<br><br>Xuất sắc trong <strong>giải toán, khoa học và các câu hỏi tiếng Anh</strong><br><br>Giải và dịch câu hỏi bằng hơn 30 ngôn ngữ — chỉ cần chụp ảnh và hỏi<br>",
+    "homeIntro": {
         "awards": {
           "math": {
             "v": "Toán học",

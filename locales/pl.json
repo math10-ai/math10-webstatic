@@ -1,10 +1,10 @@
 {
     "introduction": "Wprowadzenie",
     "features": "Funkcje",
-    "title": "Najnowsza aplikacja do rozwiązywania zadań z matematyki oparta na AI",
+    "title": "Twój korepetytor AI — Matematyka, Nauki ścisłe, Angielski i więcej",
     
-      "description": "Lepsze niż ChatGPT<br><br>Wyróżnia się w <strong>matematyce, języku angielskim, fizyce i chemii..</strong><br><br> Obsługuje ponad 30 języków<br>",
-      "homeIntro": {
+    "description": "Lepszy niż ChatGPT<br><br>Wyróżnia się w <strong>rozwiązywaniu problemów z matematyki, nauk ścisłych i języka angielskiego</strong><br><br>Rozwiązuje i tłumaczy pytania w ponad 30 językach — po prostu zrób zdjęcie i zapytaj<br>",
+    "homeIntro": {
         "awards": {
           "math": {
             "v": "Matematyka",
