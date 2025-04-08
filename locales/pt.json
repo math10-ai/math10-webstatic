@@ -1,10 +1,10 @@
 {
     "introduction": "Introdução",
     "features": "Recursos",
-    "title": "O mais recente aplicativo de matemática baseado em IA",
+    "title": "Seu tutor de IA — Matemática, Ciências, Inglês e muito mais",
     
-      "description": "Melhor que o ChatGPT<br><br>Se destaca em <strong>Matemática, Inglês, Física e Química..</strong><br><br> Suporta mais de 30 idiomas<br>",
-      "homeIntro": {
+    "description": "Melhor que o ChatGPT<br><br>Excelente em <strong>resolver problemas de matemática, ciências e inglês</strong><br><br>Resolve e traduz perguntas em mais de 30 idiomas — basta tirar uma foto e perguntar<br>",
+    "homeIntro": {
         "awards": {
           "math": {
             "v": "Matemática",

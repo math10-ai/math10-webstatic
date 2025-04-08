@@ -1,10 +1,10 @@
 {
     "introduction": "简介",
     "features": "功能",
-    "title": "最新基于人工智能的数学解题应用",
+    "title": "你的AI辅导老师 — 数学、科学、英语及更多",
     
-      "description": "比 ChatGPT 更强<br><br>擅长 <strong>数学、英语、物理和化学..</strong><br><br> 支持超过30种语言<br>",
-      "homeIntro": {
+    "description": "比 ChatGPT 更强大<br><br>擅长 <strong>数学、科学和英语问题解决</strong><br><br>支持 30 多种语言的问题解答与翻译 — 拍照即可提问<br>",
+    "homeIntro": {
         "awards": {
           "math": {
             "v": "数学",

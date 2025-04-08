@@ -1,11 +1,11 @@
 {
     "introduction": "소개",
     "features": "기능",
-    "title": "최신 AI 기반 수학 문제 해결 앱",
+    "title": "당신의 AI 튜터 — 수학, 과학, 영어 그 이상",
     "aboutUs": "회사 소개",
     
-    "description": "ChatGPT보다 뛰어난 성능<br><br><strong>수학, 영어, 물리학, 화학</strong> 분야에서 탁월함<br><br>30개 이상의 언어 지원<br>",
-  
+    "description": "ChatGPT보다 더 나은<br><br><strong>수학, 과학, 영어 문제 해결</strong>에 뛰어남<br><br>30개 이상의 언어로 질문을 해결하고 번역합니다 — 그냥 찍고 물어보세요<br>",
+
     "homeIntro": {
       "awards": {
         "math": {

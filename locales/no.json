@@ -1,10 +1,10 @@
 {
     "introduction": "Introduksjon",
     "features": "Funksjoner",
-    "title": "Nyeste AI-drevne Matematikkapp",
+    "title": "Din AI-veileder — Matematikk, Naturfag, Engelsk og mer",
     
-      "description": "Bedre enn ChatGPT<br><br>Utmanner i <strong>Matematikk, Engelsk, Fysikk og Kjemi..</strong><br><br> Støtter over 30 språk<br>",
-      "homeIntro": {
+    "description": "Bedre enn ChatGPT<br><br>Utmerker seg i <strong>matematikk, naturfag og engelsk problemløsning</strong><br><br>Løser og oversetter spørsmål på over 30 språk — bare ta et bilde og spør<br>",
+    "homeIntro": {
         "awards": {
           "math": {
             "v": "Matematikk",

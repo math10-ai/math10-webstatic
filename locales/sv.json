@@ -1,10 +1,10 @@
 {
     "introduction": "Introduktion",
     "features": "Funktioner",
-    "title": "Senaste AI-drivna Matematikapplikationen",
+    "title": "Din AI-mentor — Matematik, Naturvetenskap, Engelska och mer",
     
-      "description": "Bättre än ChatGPT<br><br>Utmärker sig inom <strong>Matematik, Engelska, Fysik och Kemi..</strong><br><br> Stöder över 30 språk<br>",
-      "homeIntro": {
+    "description": "Bättre än ChatGPT<br><br>Utmärkt på <strong>matematik, naturvetenskap och engelska problemlösning</strong><br><br>Löser och översätter frågor på över 30 språk — ta bara en bild och fråga<br>",
+    "homeIntro": {
         "awards": {
           "math": {
             "v": "Matematik",
