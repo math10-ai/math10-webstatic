@@ -1,10 +1,10 @@
 {
     "introduction": "Introduktion",
     "features": "Funktioner",
-    "title": "Din AI-underviser — Matematik, Naturvidenskab, Engelsk og mere",
+    "title": "Din AI-underviser — Matematik, Videnskab, Sprog og Mere",
     
     
-    "description": "Bedre end ChatGPT<br><br>Ekspert i <strong>matematik, naturvidenskab og engelsk problemløsning</strong><br><br>Løser og oversætter spørgsmål på mere end 30 sprog — tag blot et billede og spørg<br>",
+    "description": "Bedre end ChatGPT<br><br>Udmærker sig i <strong>Matematik, Videnskab og Sprogproblemløsning</strong><br><br>Løser og oversætter spørgsmål på over 30 sprog — tag bare et billede og spørg<br>",
     "homeIntro": {
       "awards": {
         "math": {"v": "Matematik", "k": "Top MCSE, ACIM-konkurrence"},

@@ -1,9 +1,9 @@
 {
     "introduction": "紹介",
     "features": "機能",
-    "title": "あなたのAIチューター — 数学、科学、英語など",
+    "title": "あなたのAIチューター — 数学・科学・言語など",
     
-    "description": "ChatGPTより優れています<br><br><strong>数学、科学、英語の問題解決</strong>に秀でています<br><br>30以上の言語で質問を解決し翻訳します — 撮影して質問するだけです<br>",
+    "description": "ChatGPTより優秀<br><br><strong>数学・科学・言語の問題解決に優れる</strong><br><br>30以上の言語で質問を解決・翻訳 — 撮って聞くだけ<br>",
     "homeIntro": {
       "awards": {
         "math": {

@@ -1,9 +1,9 @@
 {
     "introduction": "Esittely",
     "features": "Ominaisuudet",
-    "title": "Sinun tekoälyopettajasi — Matematiikkaa, Tiedettä, Englantia ja muuta",
+    "title": "Sinun AI-opettajasi – Matematiikkaa, Tiedettä, Kieliä ja Muuta",
     
-    "description": "Parempi kuin ChatGPT<br><br>Erinomainen <strong>matematiikan, luonnontieteiden ja englannin ongelmanratkaisussa</strong><br><br>Ratkaisee ja kääntää kysymyksiä yli 30 kielellä — ota vain kuva ja kysy<br>",
+    "description": "Parempi kuin ChatGPT<br><br>Erinomainen <strong>matematiikan, tieteen ja kielten ongelmanratkaisussa</strong><br><br>Ratkaisee ja kääntää kysymyksiä yli 30 kielellä — ota kuva ja kysy<br>",
     "homeIntro": {
       "awards": {
         "math": {"v": "Matematiikka", "k": "Huippu MCSE, ACIM-kilpailu"},

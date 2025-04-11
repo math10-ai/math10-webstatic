@@ -1,9 +1,9 @@
 {
     "introduction": "Introduksjon",
     "features": "Funksjoner",
-    "title": "Din AI-veileder — Matematikk, Naturfag, Engelsk og mer",
+    "title": "Din AI-lærer — Matematikk, Vitenskap, Språk og Mer",
     
-    "description": "Bedre enn ChatGPT<br><br>Utmerker seg i <strong>matematikk, naturfag og engelsk problemløsning</strong><br><br>Løser og oversetter spørsmål på over 30 språk — bare ta et bilde og spør<br>",
+    "description": "Bedre enn ChatGPT<br><br>Utmerker seg i <strong>problemløsning innen matematikk, vitenskap og språk</strong><br><br>Løser og oversetter spørsmål på over 30 språk — bare ta et bilde og spør<br>",
     "homeIntro": {
         "awards": {
           "math": {

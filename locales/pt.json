@@ -1,9 +1,9 @@
 {
     "introduction": "Introdução",
     "features": "Recursos",
-    "title": "Seu tutor de IA — Matemática, Ciências, Inglês e muito mais",
+    "title": "Seu Tutor de IA — Matemática, Ciência, Idiomas e Mais",
     
-    "description": "Melhor que o ChatGPT<br><br>Excelente em <strong>resolver problemas de matemática, ciências e inglês</strong><br><br>Resolve e traduz perguntas em mais de 30 idiomas — basta tirar uma foto e perguntar<br>",
+    "description": "Melhor que o ChatGPT<br><br>Excelente em <strong>resolução de problemas de matemática, ciência e linguagem</strong><br><br>Resolve e traduz perguntas em mais de 30 idiomas — basta tirar uma foto e perguntar<br>",
     "homeIntro": {
         "awards": {
           "math": {

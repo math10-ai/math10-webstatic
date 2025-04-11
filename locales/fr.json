@@ -1,9 +1,9 @@
 {
     "introduction": "Introduction",
     "features": "Fonctionnalités",
-    "title":  "Votre tuteur IA — Maths, Sciences, Anglais et plus encore",
+    "title":  " Votre Tuteur IA — Maths, Sciences, Langues et plus",
     
-    "description": "Mieux que ChatGPT<br><br>Excelle en <strong>résolution de problèmes en mathématiques, sciences et anglais</strong><br><br>Résout et traduit des questions en plus de 30 langues — il suffit de prendre une photo et de demander<br>",
+    "description": "Mieux que ChatGPT<br><br>Excellent en <strong>résolution de problèmes de mathématiques, de sciences et de langues</strong><br><br>Résout et traduit des questions dans plus de 30 langues — prenez une photo et posez votre question<br>",
     "homeIntro": {
       "awards": {
         "math": {"v": "Mathématiques", "k": "Concours MCSE, ACIM Top"},
