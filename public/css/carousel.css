@@ -1,0 +1,62 @@
+.hero-img .carousel {
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.carousel-item {
+    text-align: center;
+    padding: 20px;
+}
+
+.carousel-item img {
+    border-radius: 15px;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.carousel-label {
+    display: block;
+    color: yellow;
+    font-size: 1.2em;
+    margin-bottom: 15px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    width: 50px;
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0.15);
+    border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.carousel-control-prev:hover,
+.carousel-control-next:hover {
+    background-color: rgba(255, 255, 255, 0.25);
+}
+
+.carousel-indicators {
+    bottom: -40px;
+}
+
+.carousel-indicators button {
+    width: 12px !important;
+    height: 12px !important;
+    border-radius: 50%;
+    margin: 0 5px;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.carousel-indicators button.active {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+body {
+    background-color: #121212;
+    color: #ffffff;
+}

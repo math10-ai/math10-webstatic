@@ -1,42 +1,50 @@
 {
-    "introduction": "Introduction",
-    "features": "Fonctionnalités",
-    "title":  " Votre Tuteur IA — Maths, Sciences, Langues et plus",
-    
-    "description": "Mieux que ChatGPT<br><br>Excellent en <strong>résolution de problèmes de mathématiques, de sciences et de langues</strong><br><br>Résout et traduit des questions dans plus de 30 langues — prenez une photo et posez votre question<br>",
-    "homeIntro": {
-      "awards": {
-        "math": {"v": "Mathématiques", "k": "Concours MCSE, ACIM Top"},
-        "english": {"v": "Anglais", "k": "Réponse correcte à la question"},
-        "science": {"v": "Science", "k": "TOP GPQA-Diamant"}
-      }
-    },
-    "solvingMath": "Résolution de Mathématiques",
-    "solvingEnglish": "Résolution d'Anglais",
-    "solvingChemistry": "Résolution de Chimie",
-    "contacts": "Contacts",
-    "contacts_label": "Contactez-nous",
-    "contacts_sp": "Support",
-    "contacts_coop": "Coopération",
-    "footer": "© 2025 Math10.AI. Tous droits réservés.",
-    "summary": "Math10 alimenté par l'IA est un outil révolutionnaire qui combine l'intelligence artificielle (IA) avec des algorithmes avancés. Math10.AI aide les utilisateurs à résoudre des problèmes rapidement et avec précision, du niveau de base au niveau avancé.",
-    "capability": "Math10 excelle non seulement en <strong>Mathématiques</strong>, mais aussi dans des matières comme <strong>l'Anglais, la Physique et la Chimie</strong>. Libérez tout votre potentiel avec la puissance de Math10 !",
-    "features_automated_problem_solving_description": "Identifiez et résolvez instantanément divers types de problèmes, y compris l'algèbre, la géométrie, les probabilités, le calcul, l'anglais, la physique, la chimie.",
-    
-    "aboutUs": "À propos de nous",
-    "featuresSection": "Fonctionnalités",
-    "features_automated_problem_solving_title": "Résolution automatisée de problèmes",
-    "features_step_by_step_guidance_title": "Guide étape par étape",
-    "features_step_by_step_guidance_description": "Affiche des solutions détaillées, permettant aux apprenants de comprendre le processus au lieu de simplement recevoir les réponses.",
-    "features_problem_recognition_title": "Reconnaissance de problèmes via des images",
-    "features_problem_recognition_description": "Utilise la technologie de numérisation d'images pour reconnaître les problèmes mathématiques manuscrits ou imprimés, permettant une résolution directe à partir des manuels scolaires.",
-    "features_multi_platform_support_title": "Prise en charge multiplateforme",
-    "features_multi_platform_support_description": "Disponible sur smartphones, tablettes et ordinateurs de bureau, offrant une commodité pour tous les utilisateurs.",
-    "features_target_audience_title": "Public cible",
-    "features_target_audience_description": "Étudiants : Améliorez vos compétences d'apprentissage et préparez-vous mieux aux examens.\nEnseignants : Améliorez l'efficacité de l'enseignement et fournissez des supports pédagogiques supplémentaires.\nChercheurs : Résolvez rapidement des problèmes complexes, soutenant les projets et la recherche scientifique.",
-    "features_outstanding_benefits_title": "Avantages exceptionnels",
-    "features_outstanding_benefits_description": "Économisez du temps et des efforts dans la résolution de problèmes mathématiques.\nAméliorez les capacités d'auto-apprentissage et approfondissez la compréhension des concepts mathématiques.\nRapprochez les mathématiques de tout le monde, même des non-spécialistes.",
-    "footer_address_title": "Adresse",
-    "footer_address_description": "4 C11, Đường Đồng Bát, Cầu Giấy, Hà Nội",
-    "buttonText": "Langue actuelle : Français"
-  }
+	"introduction": "Introduction",
+	"features": "Fonctionnalités",
+	"title": " Votre Tuteur IA — Maths, Sciences, Langues et plus",
+	"description": "Mieux que ChatGPT<br><br>Excellent en <strong>résolution de problèmes de mathématiques, de sciences et de langues</strong><br><br>Résout et traduit des questions dans plus de 30 langues — prenez une photo et posez votre question<br>",
+	"homeIntro": {
+		"awards": {
+			"math": {
+				"v": "Mathématiques",
+				"k": "Concours MCSE, ACIM Top"
+			},
+			"english": {
+				"v": "Anglais",
+				"k": "Réponse correcte à la question"
+			},
+			"science": {
+				"v": "Science",
+				"k": "TOP GPQA-Diamant"
+			}
+		}
+	},
+	"solvingMath": "Résolution de Mathématiques",
+	"solvingEnglish": "Résolution d'Anglais",
+	"solvingChemistry": "Résolution de Chimie",
+	"contacts": "Contacts",
+	"contacts_label": "Contactez-nous",
+	"contacts_sp": "Support",
+	"contacts_coop": "Coopération",
+	"footer": "© 2025 Math10.AI. Tous droits réservés.",
+	"summary": "Math10 alimenté par l'IA est un outil révolutionnaire qui combine l'intelligence artificielle (IA) avec des algorithmes avancés. Math10.AI aide les utilisateurs à résoudre des problèmes rapidement et avec précision, du niveau de base au niveau avancé.",
+	"capability": "Math10 excelle non seulement en <strong>Mathématiques</strong>, mais aussi dans des matières comme <strong>l'Anglais, la Physique et la Chimie</strong>. Libérez tout votre potentiel avec la puissance de Math10 !",
+	"features_automated_problem_solving_description": "Identifiez et résolvez instantanément divers types de problèmes, y compris l'algèbre, la géométrie, les probabilités, le calcul, l'anglais, la physique, la chimie.",
+	"aboutUs": "À propos de nous",
+	"featuresSection": "Fonctionnalités",
+	"features_automated_problem_solving_title": "Résolution automatisée de problèmes",
+	"features_step_by_step_guidance_title": "Guide étape par étape",
+	"features_step_by_step_guidance_description": "Affiche des solutions détaillées, permettant aux apprenants de comprendre le processus au lieu de simplement recevoir les réponses.",
+	"features_problem_recognition_title": "Reconnaissance de problèmes via des images",
+	"features_problem_recognition_description": "Utilise la technologie de numérisation d'images pour reconnaître les problèmes mathématiques manuscrits ou imprimés, permettant une résolution directe à partir des manuels scolaires.",
+	"features_multi_platform_support_title": "Prise en charge multiplateforme",
+	"features_multi_platform_support_description": "Disponible sur smartphones, tablettes et ordinateurs de bureau, offrant une commodité pour tous les utilisateurs.",
+	"features_target_audience_title": "Public cible",
+	"features_target_audience_description": "Étudiants : Améliorez vos compétences d'apprentissage et préparez-vous mieux aux examens.\nEnseignants : Améliorez l'efficacité de l'enseignement et fournissez des supports pédagogiques supplémentaires.\nChercheurs : Résolvez rapidement des problèmes complexes, soutenant les projets et la recherche scientifique.",
+	"features_outstanding_benefits_title": "Avantages exceptionnels",
+	"features_outstanding_benefits_description": "Économisez du temps et des efforts dans la résolution de problèmes mathématiques.\nAméliorez les capacités d'auto-apprentissage et approfondissez la compréhension des concepts mathématiques.\nRapprochez les mathématiques de tout le monde, même des non-spécialistes.",
+	"footer_address_title": "Adresse",
+	"footer_address_description": "4 C11, Đường Đồng Bát, Cầu Giấy, Hà Nội",
+	"buttonText": "Langue actuelle : Français",
+	"translation": "translation"
+}
